@@ -108,7 +108,7 @@ app.get("/dashboard",function(request, response){
     response.sendFile(path.join(__dirname+"/public/HomePage/index.html"));
 })
 
-app.listen(3000, function(){
-    console.log("Port 3000 On Listen");
-})
+app.listen(process.env.PORT || 3000, function(){
+    console.log("Express server listening on port %d in %s mode", this.address().port, app.settings.env);
+  });
 
