@@ -1,0 +1,2100 @@
+{
+    "dataScience": [
+        {
+            "QuestionId": "1001",
+            "Question": "Which of the following would be more appropriate to be replaced with question mark in the following figure?",
+            "OptionA": "Data Analysis",
+            "OptionB": "Data Science",
+            "OptionC": "Descriptive Analytics",
+            "OptionD": "None of the mentioned",
+            "Answer": "b",
+            "Explanation": "Data Science is a multidisciplinary which involves extraction of knowledge from large volumes of data that are structured or unstructured."
+        },
+        {
+            "QuestionId": "1002",
+            "Question": "Point out the correct statement.",
+            "OptionA": "Raw data is original source of data",
+            "OptionB": "Preprocessed data is original source of data",
+            "OptionC": "Raw data is the data obtained after processing steps",
+            "OptionD": "None of the mentioned",
+            "Answer": "a",
+            "Explanation": "Accounting programs are prototypical examples of data processing applications."
+        },
+        {
+            "QuestionId": "1003",
+            "Question": "Which of the following is performed by Data Scientist?",
+            "OptionA": "Define the question",
+            "OptionB": "Create reproducible code",
+            "OptionC": "Challenge results",
+            "OptionD": "All of the mentioned",
+            "Answer": "d",
+            "Explanation": "A data scientist is a job title for an employee or business intelligence (BI) consultant who excels at analyzing data, particularly large amounts of data."
+        },
+        {
+            "QuestionId": "1004",
+            "Question": "Which of the following is the most important language for Data Science?",
+            "OptionA": "Java",
+            "OptionB": "Ruby",
+            "OptionC": "R",
+            "OptionD": "None of the mentioned",
+            "Answer": "c",
+            "Explanation": "R is free software for statistical computing and analysis."
+        },
+        {
+            "QuestionId": "1005",
+            "Question": "Point out the wrong statement.",
+            "OptionA": "Merging concerns combining datasets on the same observations to produce a result with more variables",
+            "OptionB": "Data visualization is the organization of information according to preset specifications",
+            "OptionC": "Subsetting can be used to select and exclude variables and observations",
+            "OptionD": "All of the mentioned",
+            "Answer": "b",
+            "Explanation": "Data formatting is the organization of information according to preset specifications."
+        },
+        {
+            "QuestionId": "1006",
+            "Question": "Which of the following approach should be used to ask Data Analysis question?",
+            "OptionA": "Find only one solution for particular problem",
+            "OptionB": "Find out the question which is to be answered",
+            "OptionC": "Find out answer from dataset without asking question",
+            "OptionD": "None of the mentioned",
+            "Answer": "b",
+            "Explanation": "Data analysis has multiple facets and approaches."
+        },
+        {
+            "QuestionId": "1007",
+            "Question": "Which of the following is one of the key data science skills?",
+            "OptionA": "Statistics",
+            "OptionB": "Machine Learning",
+            "OptionC": "Data Visualization",
+            "OptionD": "All of the mentioned",
+            "Answer": "d",
+            "Explanation": "Data visualization is the presentation of data in a pictorial or graphical format."
+        },
+        {
+            "QuestionId": "1008",
+            "Question": "Which of the following is a key characteristic of a hacker?",
+            "OptionA": "Afraid to say they don�t know the answer",
+            "OptionB": "Willing to find answers on their own",
+            "OptionC": "Not Willing to find answers on their own",
+            "OptionD": "All of the mentioned",
+            "Answer": "b",
+            "Explanation": "Hacker is an expert at programming and solving problems with a computer."
+        },
+        {
+            "QuestionId": "1009",
+            "Question": "Which of the following is characteristic of Processed Data?",
+            "OptionA": "Data is not ready for analysis",
+            "OptionB": "All steps should be noted",
+            "OptionC": "Hard to use for data analysis",
+            "OptionD": "None of the mentioned",
+            "Answer": "b",
+            "Explanation": "Processing includes merging, summarizing and subsetting data."
+        },
+        {
+            "QuestionId": "1010",
+            "Question": "Which of the following would be more appropriate to be replaced with question mark in the following figure?",
+            "OptionA": "Data Analysis",
+            "OptionB": "Data Science",
+            "OptionC": "Descriptive Analytics",
+            "OptionD": "None of the mentioned",
+            "Answer": "b",
+            "Explanation": "Data Science is a multidisciplinary which involves extraction of knowledge from large volumes of data that are structured or unstructured."
+        },
+        {
+            "QuestionId": "1011",
+            "Question": "Point out the correct statement.",
+            "OptionA": "Raw data is original source of data",
+            "OptionB": "Preprocessed data is original source of data",
+            "OptionC": "Raw data is the data obtained after processing steps",
+            "OptionD": "None of the mentioned",
+            "Answer": "a",
+            "Explanation": "Accounting programs are prototypical examples of data processing applications."
+        },
+        {
+            "QuestionId": "1012",
+            "Question": "Which of the following is performed by Data Scientist?",
+            "OptionA": "Define the question",
+            "OptionB": "Create reproducible code",
+            "OptionC": "Challenge results",
+            "OptionD": "All of the mentioned",
+            "Answer": "d",
+            "Explanation": "A data scientist is a job title for an employee or business intelligence (BI) consultant who excels at analyzing data, particularly large amounts of data."
+        },
+        {
+            "QuestionId": "1013",
+            "Question": "Which of the following is the most important language for Data Science?",
+            "OptionA": "Java",
+            "OptionB": "Ruby",
+            "OptionC": "R",
+            "OptionD": "None of the mentioned",
+            "Answer": "c",
+            "Explanation": "R is free software for statistical computing and analysis."
+        },
+        {
+            "QuestionId": "1014",
+            "Question": "Point out the wrong statement.",
+            "OptionA": "Merging concerns combining datasets on the same observations to produce a result with more variables",
+            "OptionB": "Data visualization is the organization of information according to preset specifications",
+            "OptionC": "Subsetting can be used to select and exclude variables and observations",
+            "OptionD": "All of the mentioned",
+            "Answer": "b",
+            "Explanation": "Data formatting is the organization of information according to preset specifications."
+        },
+        {
+            "QuestionId": "1015",
+            "Question": "Which of the following approach should be used to ask Data Analysis question?",
+            "OptionA": "Find only one solution for particular problem",
+            "OptionB": "Find out the question which is to be answered",
+            "OptionC": "Find out answer from dataset without asking question",
+            "OptionD": "None of the mentioned",
+            "Answer": "b",
+            "Explanation": "Data analysis has multiple facets and approaches."
+        },
+        {
+            "QuestionId": "1016",
+            "Question": "Which of the following is one of the key data science skills?",
+            "OptionA": "Statistics",
+            "OptionB": "Machine Learning",
+            "OptionC": "Data Visualization",
+            "OptionD": "All of the mentioned",
+            "Answer": "d",
+            "Explanation": "Data visualization is the presentation of data in a pictorial or graphical format."
+        },
+        {
+            "QuestionId": "1017",
+            "Question": "Which of the following is a key characteristic of a hacker?",
+            "OptionA": "Afraid to say they don�t know the answer",
+            "OptionB": "Willing to find answers on their own",
+            "OptionC": "Not Willing to find answers on their own",
+            "OptionD": "All of the mentioned",
+            "Answer": "b",
+            "Explanation": "Hacker is an expert at programming and solving problems with a computer."
+        },
+        {
+            "QuestionId": "1018",
+            "Question": "Which of the following is characteristic of Processed Data?",
+            "OptionA": "Data is not ready for analysis",
+            "OptionB": "All steps should be noted",
+            "OptionC": "Hard to use for data analysis",
+            "OptionD": "None of the mentioned",
+            "Answer": "b",
+            "Explanation": "Processing includes merging, summarizing and subsetting data."
+        },
+        {
+            "QuestionId": "1019",
+            "Question": "Which of the following operations are supported on Time Frames?",
+            "OptionA": "idxmax",
+            "OptionB": "ixmax",
+            "OptionC": "ixmin",
+            "OptionD": "none of the mentioned",
+            "Answer": "a",
+            "Explanation": "Operands can also appear in a reversed order."
+        },
+        {
+            "QuestionId": "1020",
+            "Question": "Point out the correct statement.",
+            "OptionA": "Timedeltas are differences in times, expressed in difference units",
+            "OptionB": "You can construct a Timedelta scalar through various argument",
+            "OptionC": "DateOffsets cannot be used in construction",
+            "OptionD": "All of the mentioned",
+            "Answer": "a",
+            "Explanation": "Timedeltas can be both positive and negative."
+        },
+        {
+            "QuestionId": "1021",
+            "Question": "Numeric reduction operation for timedelta64[ns] will return _________ objects.",
+            "OptionA": "Timeseries",
+            "OptionB": "Timeplus",
+            "OptionC": "Timedelta",
+            "OptionD": "None of the mentioned",
+            "Answer": "c",
+            "Explanation": "NaT are skipped during evaluation."
+        },
+        {
+            "QuestionId": "1022",
+            "Question": "Which of the following scalars can be converted to other �frequencies� by as typing to a specific timedelta type?",
+            "OptionA": "Timedelta Series",
+            "OptionB": "TimedeltaIndex",
+            "OptionC": "Timedelta",
+            "OptionD": "All of the mentioned",
+            "Answer": "d",
+            "Explanation": "These operations yield Series and propagate NaT -> nan."
+        },
+        {
+            "QuestionId": "1023",
+            "Question": "Point out the wrong statement.",
+            "OptionA": "min, max, idxmin, idxmax operations are supported on Series",
+            "OptionB": "You cannot pass a timedelta to get a particular value",
+            "OptionC": "Division by the numpy scalar is true division",
+            "OptionD": "None of the mentioned",
+            "Answer": "b",
+            "Explanation": "Dividing or multiplying a timedelta64[ns] Series by an integer or integer Series yields another timedelta64[ns] dtypes Series."
+        },
+        {
+            "QuestionId": "1024",
+            "Question": "Which of the following is used to generate an index with time delta?",
+            "OptionA": "TimeIndex",
+            "OptionB": "TimedeltaIndex",
+            "OptionC": "LeadIndex",
+            "OptionD": "None of the mentioned",
+            "Answer": "b",
+            "Explanation": "Using TimedeltaIndex you can pass string-like, Timedelta, timedelta, or np.timedelta64 objects."
+        },
+        {
+            "QuestionId": "1025",
+            "Question": "Which of the following principle is incorrectly represented in the below figure?",
+            "OptionA": "Show Comparisons",
+            "OptionB": "Integrate Evidence",
+            "OptionC": "Describe Evidence",
+            "OptionD": "None of the mentioned",
+            "Answer": "d",
+            "Explanation": "Principles of Analytical graphs are sequentially shown in the stepwise manner."
+        },
+        {
+            "QuestionId": "1026",
+            "Question": "Point out the correct statement.",
+            "OptionA": "Least square is an estimation tool",
+            "OptionB": "Least square problems falls in to three categories",
+            "OptionC": "Compound least square is one of the category of least square",
+            "OptionD": "None of the mentioned",
+            "Answer": "a",
+            "Explanation": "The Method of Least Squares is a procedure to determine the best fit line to data."
+        },
+        {
+            "QuestionId": "1027",
+            "Question": "How many principles of analytical graphs exist?",
+            "OptionA": "3",
+            "OptionB": "4",
+            "OptionC": "6",
+            "OptionD": "None of the mentioned",
+            "Answer": "c",
+            "Explanation": "Six Principles of Analytical Graphs are useful for data analysis."
+        },
+        {
+            "QuestionId": "1028",
+            "Question": "Which of the following is not a step in data analysis?",
+            "OptionA": "Obtain the data",
+            "OptionB": "Clean the data",
+            "OptionC": "EDA",
+            "OptionD": "None of the mentioned",
+            "Answer": "d",
+            "Explanation": "EDA stands for Exploratory Data Analysis."
+        },
+        {
+            "QuestionId": "1029",
+            "Question": "Point out the wrong statement.",
+            "OptionA": "Simple linear regression is equipped to handle more than one predictor",
+            "OptionB": "Compound linear regression is not equipped to handle more than one predictor",
+            "OptionC": "Linear regression consists of finding the best-fitting straight line through the points",
+            "OptionD": "All of the mentioned",
+            "Answer": "a",
+            "Explanation": "Simple linear regression is equipped to handle more than one predictor."
+        },
+        {
+            "QuestionId": "1030",
+            "Question": "Which of the following technique comes under practical machine learning?",
+            "OptionA": "Bagging",
+            "OptionB": "Boosting",
+            "OptionC": "Forecasting",
+            "OptionD": "None of the mentioned",
+            "Answer": "b",
+            "Explanation": "Boosting is an approach to machine learning based on the idea of creating a highly accurate predictor."
+        },
+        {
+            "QuestionId": "1031",
+            "Question": "Data Products shown in the below figure is built using which programming language?",
+            "OptionA": "S",
+            "OptionB": "Python",
+            "OptionC": "R",
+            "OptionD": "Java",
+            "Answer": "c",
+            "Explanation": "Products mentioned in the figure are web application frameworks written in R."
+        },
+        {
+            "QuestionId": "1032",
+            "Question": "Which of the following technique is also referred to as Bagging?",
+            "OptionA": "Bootstrap aggregating",
+            "OptionB": "Bootstrap subsetting",
+            "OptionC": "Bootstrap predicting",
+            "OptionD": "All of the mentioned",
+            "Answer": "a",
+            "Explanation": "Bagging is used in statistical classification and regression."
+        },
+        {
+            "QuestionId": "1033",
+            "Question": "Which of the following is characteristic of Raw Data?",
+            "OptionA": "Data is ready for analysis",
+            "OptionB": "Original version of data",
+            "OptionC": "Easy to use for data analysis",
+            "OptionD": "None of the mentioned",
+            "Answer": "b",
+            "Explanation": "Raw data is data that has not been processed for use."
+        },
+        {
+            "QuestionId": "1034",
+            "Question": "Which of the following CLI command can also be used to rename files?",
+            "OptionA": "rm",
+            "OptionB": "mv",
+            "OptionC": "rm -r",
+            "OptionD": "none of the mentioned",
+            "Answer": "b",
+            "Explanation": "mv stands for move."
+        },
+        {
+            "QuestionId": "1035",
+            "Question": "Point out the correct statement.",
+            "OptionA": "CLI can help you to organize messages",
+            "OptionB": "CLI can help you to organize files and folders",
+            "OptionC": "Navigation of directory is possible using CLI",
+            "OptionD": "None of the mentioned",
+            "Answer": "b",
+            "Explanation": "CLI stands for Command Line Interface."
+        },
+        {
+            "QuestionId": "1036",
+            "Question": "Which of the following command allows you to change directory to one level above your parent directory?",
+            "OptionA": "cd",
+            "OptionB": "cd.",
+            "OptionC": "cd..",
+            "OptionD": "none of the mentioned",
+            "Answer": "c",
+            "Explanation": "cd stands for change directory."
+        },
+        {
+            "QuestionId": "1037",
+            "Question": "Which of the following is not a CLI command?",
+            "OptionA": "delete",
+            "OptionB": "rm",
+            "OptionC": "clear",
+            "OptionD": "none of the mentioned",
+            "Answer": "a",
+            "Explanation": "rm can be used to remove files and directories."
+        },
+        {
+            "QuestionId": "1038",
+            "Question": "Point out the wrong statement.",
+            "OptionA": "Command is the CLI command which does a specific task",
+            "OptionB": "There is one and only flag for every command in CLI",
+            "OptionC": "Flags are the options given to command for activating particular behaviour",
+            "OptionD": "All of the mentioned",
+            "Answer": "b",
+            "Explanation": "Depending on the command, there can be zero or more flags and arguments."
+        },
+        {
+            "QuestionId": "1039",
+            "Question": "Which of the following systems record changes to a file over time?",
+            "OptionA": "Record Control",
+            "OptionB": "Version Control",
+            "OptionC": "Forecast Control",
+            "OptionD": "None of the mentioned",
+            "Answer": "b",
+            "Explanation": "Version control is also known as revision control."
+        },
+        {
+            "QuestionId": "1040",
+            "Question": "Which of the following is a revision control system?",
+            "OptionA": "Git",
+            "OptionB": "NumPy",
+            "OptionC": "Slidify",
+            "OptionD": "None of the mentioned",
+            "Answer": "a",
+            "Explanation": "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency."
+        },
+        {
+            "QuestionId": "1041",
+            "Question": "Which of the following command line environment is used for interacting with Git?",
+            "OptionA": "GitHub",
+            "OptionB": "Git Bash",
+            "OptionC": "Git Boot",
+            "OptionD": "All of the mentioned",
+            "Answer": "b",
+            "Explanation": "Git for Windows provides a BASH emulation used to run Git from the command line."
+        },
+        {
+            "QuestionId": "1042",
+            "Question": "Which of the following web hosting service use Git control system?",
+            "OptionA": "GitHub",
+            "OptionB": "Open Hash",
+            "OptionC": "Git Bash",
+            "OptionD": "None of the mentioned",
+            "Answer": "a",
+            "Explanation": "GitHub is a Web-based Git repository hosting service, which offers all of the distributed revision control and source code management (SCM) functionality of Git."
+        },
+        {
+            "QuestionId": "1043",
+            "Question": "Which of the following adds all new files to local repository?",
+            "OptionA": "git add .",
+            "OptionB": "git add -u",
+            "OptionC": "git add -A",
+            "OptionD": "none of the mentioned",
+            "Answer": "a",
+            "Explanation": "You should do this before committing."
+        },
+        {
+            "QuestionId": "1044",
+            "Question": "Point out the correct statement.",
+            "OptionA": "You don�t need GitHub to use Git",
+            "OptionB": "CLI can help you to organize files and folders",
+            "OptionC": "Navigation of directory is possible using CLI",
+            "OptionD": "None of the mentioned",
+            "Answer": "b",
+            "Explanation": "CLI stands for Command Line Interface."
+        },
+        {
+            "QuestionId": "1045",
+            "Question": "Which of the following command updates tracking for files that are modified?",
+            "OptionA": "git add .",
+            "OptionB": "git add -u",
+            "OptionC": "git add -A",
+            "OptionD": "none of the mentioned",
+            "Answer": "b",
+            "Explanation": "The git add command adds a change in the working directory to the staging area."
+        },
+        {
+            "QuestionId": "1046",
+            "Question": "Which of the following command is used to give a message description?",
+            "OptionA": "git command -m",
+            "OptionB": "git command -d",
+            "OptionC": "git command -message",
+            "OptionD": "none of the mentioned",
+            "Answer": "a",
+            "Explanation": "This only updates your local repository."
+        },
+        {
+            "QuestionId": "1047",
+            "Question": "Point out the wrong statement.",
+            "OptionA": "You need GitHub to use Git",
+            "OptionB": "GitHub allows you to share repositories with others",
+            "OptionC": "GitHub allows you to access others repositories",
+            "OptionD": "All of the mentioned",
+            "Answer": "a",
+            "Explanation": "GitHub can store a remote copy of your repository."
+        },
+        {
+            "QuestionId": "1048",
+            "Question": "Which of the following command allows you to update the repository?",
+            "OptionA": "push",
+            "OptionB": "pop",
+            "OptionC": "update",
+            "OptionD": "none of the mentioned",
+            "Answer": "a",
+            "Explanation": "The git branch command is your general-purpose branch administration tool."
+        },
+        {
+            "QuestionId": "1049",
+            "Question": "Which of the following is the correct way of creating GitHub repository in to well labelled commits?",
+            "OptionA": "Fork another user�s repository",
+            "OptionB": "Pop another user�s repository",
+            "OptionC": "Zip another user�s repository",
+            "OptionD": "None of the mentioned",
+            "Answer": "a",
+            "Explanation": "A fork is a copy of a repository."
+        },
+        {
+            "QuestionId": "1050",
+            "Question": "Which of the following command is used to squash the commits?",
+            "OptionA": "rebase",
+            "OptionB": "squash",
+            "OptionC": "boot",
+            "OptionD": "all of the mentioned",
+            "Answer": "a",
+            "Explanation": "In Git, there are two main ways to integrate changes from one branch into another: the merge and the rebase."
+        },
+        {
+            "QuestionId": "1051",
+            "Question": "Which of the following statement would create branch named as �sanfoundry�?",
+            "OptionA": "git checkout -b sanfoundry",
+            "OptionB": "git checkout -c sanfoundry",
+            "OptionC": "git check -b sanfoundry",
+            "OptionD": "none of the mentioned",
+            "Answer": "a",
+            "Explanation": "A branch in Git is simply a lightweight movable pointer to one of these commits."
+        },
+        {
+            "QuestionId": "1052",
+            "Question": "Which of the following term is appropriate to the below figure?",
+            "OptionA": "",
+            "OptionB": "a) Large Data",
+            "OptionC": "b) Big Data",
+            "OptionD": "c) Dark Data",
+            "Answer": "i",
+            "Explanation": "swer: b"
+        },
+        {
+            "QuestionId": "1053",
+            "Question": "Point out the correct statement.",
+            "OptionA": "Machine learning focuses on prediction, based on known properties learned from the training data",
+            "OptionB": "Data Cleaning focuses on prediction, based on known properties learned from the training data",
+            "OptionC": "Representing data in a form which both mere mortals can understand and get valuable insights is as much a science as much as it is art",
+            "OptionD": "None of the mentioned",
+            "Answer": "d",
+            "Explanation": "Visualization is becoming a very important aspect."
+        },
+        {
+            "QuestionId": "1054",
+            "Question": "Which of the following characteristic of big data is relatively more concerned to data science?",
+            "OptionA": "Velocity",
+            "OptionB": "Variety",
+            "OptionC": "Volume",
+            "OptionD": "None of the mentioned",
+            "Answer": "b",
+            "Explanation": "Big data enables organizations to store, manage, and manipulate vast amounts of disparate data at the right speed and at the right time."
+        },
+        {
+            "QuestionId": "1055",
+            "Question": "Which of the following analytical capabilities are provided by information management company?",
+            "OptionA": "Stream Computing",
+            "OptionB": "Content Management",
+            "OptionC": "Information Integration",
+            "OptionD": "All of the mentioned",
+            "Answer": "d",
+            "Explanation": "With stream computing, store less, analyze more and make better decisions faster."
+        },
+        {
+            "QuestionId": "1056",
+            "Question": "Point out the wrong statement.",
+            "OptionA": "The big volume indeed represents Big Data",
+            "OptionB": "The data growth and social media explosion have changed how we look at the data",
+            "OptionC": "Big Data is just about lots of data",
+            "OptionD": "All of the mentioned",
+            "Answer": "c",
+            "Explanation": "Big Data is actually a concept providing an opportunity to find new insight into your existing data as well guidelines to capture and analysis your future data."
+        },
+        {
+            "QuestionId": "1057",
+            "Question": "Which of the following step is performed by data scientist after acquiring the data?",
+            "OptionA": "Data Cleansing",
+            "OptionB": "Data Integration",
+            "OptionC": "Data Replication",
+            "OptionD": "All of the mentioned",
+            "Answer": "a",
+            "Explanation": "Data cleansing, data cleaning or data scrubbing is the process of detecting and correcting (or removing) corrupt or inaccurate records from a record set, table, or database."
+        },
+        {
+            "QuestionId": "1058",
+            "Question": "Which of the following design term is perfectly applicable to the below figure?",
+            "OptionA": "Correlation",
+            "OptionB": "Confounding",
+            "OptionC": "Causation",
+            "OptionD": "None of the mentioned",
+            "Answer": "b",
+            "Explanation": "Confounding can be dealt with either at the study design stage, or at the analysis stage."
+        },
+        {
+            "QuestionId": "1059",
+            "Question": "Point out the correct statement.",
+            "OptionA": "If equations are known but the parameters are not, they may be inferred with data analysis",
+            "OptionB": "If equations are not known but the parameters are, they may be inferred with data analysis",
+            "OptionC": "If equations and parameter are not, they may be inferred with data analysis",
+            "OptionD": "None of the mentioned",
+            "Answer": "a",
+            "Explanation": "Usually the random component of data is measurement error."
+        },
+        {
+            "QuestionId": "1060",
+            "Question": "Which of the following is the top most important thing in data science?",
+            "OptionA": "answer",
+            "OptionB": "question",
+            "OptionC": "data",
+            "OptionD": "none of the mentioned",
+            "Answer": "b",
+            "Explanation": "The second most important is the data."
+        },
+        {
+            "QuestionId": "1061",
+            "Question": "Which of the following approach should be used if you can�t fix the variable?",
+            "OptionA": "randomize it",
+            "OptionB": "non stratify it",
+            "OptionC": "generalize it",
+            "OptionD": "none of the mentioned",
+            "Answer": "a",
+            "Explanation": "If you can�t fix the variable, stratify it."
+        },
+        {
+            "QuestionId": "1062",
+            "Question": "Point out the wrong statement.",
+            "OptionA": "Randomized studies are not used to identify causation",
+            "OptionB": "Complication approached exist for inferring causation",
+            "OptionC": "Causal relationships may not apply to every individual",
+            "OptionD": "All of the mentioned",
+            "Answer": "a",
+            "Explanation": "Randomized studies are usually used to identify causation."
+        },
+        {
+            "QuestionId": "1063",
+            "Question": "Which of the following is a good way of performing experiments in data science?",
+            "OptionA": "Measure variability",
+            "OptionB": "Generalize to the problem",
+            "OptionC": "Have Replication",
+            "OptionD": "All of the mentioned",
+            "Answer": "d",
+            "Explanation": "Experiments on causal relationships investigate the effect of one or more variables on one or more outcome variables."
+        },
+        {
+            "QuestionId": "1064",
+            "Question": "Which of the following is commonly referred to as �data fishing�?",
+            "OptionA": "Data bagging",
+            "OptionB": "Data booting",
+            "OptionC": "Data merging",
+            "OptionD": "None of the mentioned",
+            "Answer": "d",
+            "Explanation": "Data dredging is sometimes referred to as �data fishing�."
+        },
+        {
+            "QuestionId": "1065",
+            "Question": "Which of the following data mining technique is used to uncover patterns in data?",
+            "OptionA": "Data bagging",
+            "OptionB": "Data booting",
+            "OptionC": "Data merging",
+            "OptionD": "Data Dredging",
+            "Answer": "d",
+            "Explanation": "Data dredging, also called as data snooping, refers to the practice of misusing data mining techniques to show misleading scientific �research�."
+        }
+    ],
+    "DBMS": [
+        {
+            "QuestionId": "1001",
+            "Question": "What is the full form of DBMS?",
+            "OptionA": "Data of Binary Management System",
+            "OptionB": "Database Management System",
+            "OptionC": "Database Management Service",
+            "OptionD": "Data Backup Management System",
+            "Answer": "b",
+            "Explanation": "DBMS is abbreviated as Database Management System. Database Management System stores the data and allows authorized users to manipulate and modify the data."
+        },
+        {
+            "QuestionId": "1002",
+            "Question": "What is a database?",
+            "OptionA": "Organized collection of information that cannot be accessed, updated, and managed",
+            "OptionB": "Collection of data or information without organizing",
+            "OptionC": "Organized collection of data or information that can be accessed, updated, and managed",
+            "OptionD": "Organized collection of data that cannot be updated",
+            "Answer": "c",
+            "Explanation": "It is defined as an organized collection of data or information for easy access, updating, and management in a computer."
+        },
+        {
+            "QuestionId": "1003",
+            "Question": "What is DBMS?",
+            "OptionA": "DBMS is a collection of queries",
+            "OptionB": "DBMS is a high-level language",
+            "OptionC": "DBMS is a programming language",
+            "OptionD": "DBMS stores, modifies and retrieves data",
+            "Answer": "d",
+            "Explanation": "DBMS is nothing but a storehouse wherein the authorized user can create a database to store, modify or retrieve the organized data in the table. It can be modified or retrieved by users who have access to DBMS only."
+        },
+        {
+            "QuestionId": "1004",
+            "Question": "Who created the first DBMS?",
+            "OptionA": "Edgar Frank Codd",
+            "OptionB": "Charles Bachman",
+            "OptionC": "Charles Babbage",
+            "OptionD": "Sharon B. Codd",
+            "Answer": "b",
+            "Explanation": "Charles Bachman along with his team invented the first DBMS known as Integrated Data Store (IDS)."
+        },
+        {
+            "QuestionId": "1005",
+            "Question": "Which type of data can be stored in the database?",
+            "OptionA": "Image oriented data",
+            "OptionB": "Text, files containing data",
+            "OptionC": "Data in the form of audio or video",
+            "OptionD": "All of the above",
+            "Answer": "d",
+            "Explanation": "The reason for creating the database management system was to store large data and these data can be of any form image, text, audio, or video files, etc. DBMS allows the users to store and access the data of any format."
+        },
+        {
+            "QuestionId": "1006",
+            "Question": "In which of the following formats data is stored in the database management system?",
+            "OptionA": "Image",
+            "OptionB": "Text",
+            "OptionC": "Table",
+            "OptionD": "Graph",
+            "Answer": "c",
+            "Explanation": "The data is stored in a table format intended to manage the storage of data and manipulate stored data to generate information."
+        },
+        {
+            "QuestionId": "1007",
+            "Question": "Which of the following is not a type of database?",
+            "OptionA": "Hierarchical",
+            "OptionB": "Network",
+            "OptionC": "Distributed",
+            "OptionD": "Decentralized",
+            "Answer": "d",
+            "Explanation": "Different types are:"
+        },
+        {
+            "QuestionId": "1008",
+            "Question": "Which of the following is not an example of DBMS?",
+            "OptionA": "MySQL",
+            "OptionB": "Microsoft Acess",
+            "OptionC": "IBM DB2",
+            "OptionD": "Google",
+            "Answer": "d",
+            "Explanation": "MySQL, Microsoft Access, IBM DB2 are database management systems while Google is a search engine. MySQL is a Linux-based database management system, Microsoft Access is a tool that is a part of Microsoft Office used to store data, IBM DB2 is a database management system developed by IBM. Google�s Bigtable is the database that runs Google�s Internet search, Google Maps, YouTube, Gmail, and other products."
+        },
+        {
+            "QuestionId": "1009",
+            "Question": "Which of the following is a feature of DBMS?",
+            "OptionA": "Minimum Duplication and Redundancy of Data",
+            "OptionB": "High Level of Security",
+            "OptionC": "Single-user Access only",
+            "OptionD": "Support ACID Property",
+            "Answer": "c",
+            "Explanation": "The important features of a database management system are:"
+        },
+        {
+            "QuestionId": "1010",
+            "Question": "Which of the following is a feature of the database?",
+            "OptionA": "No-backup for the data stored",
+            "OptionB": "User interface provided",
+            "OptionC": "Lack of Authentication",
+            "OptionD": "Store data in multiple locations",
+            "Answer": "b",
+            "Explanation": "The important features are:"
+        },
+        {
+            "QuestionId": "1011",
+            "Question": "Which of the following is not a function of the database?",
+            "OptionA": "Managing stored data",
+            "OptionB": "Manipulating data",
+            "OptionC": "Security for stored data",
+            "OptionD": "Analysing code",
+            "Answer": "d",
+            "Explanation": "It allows authorized users to update, store, manipulate, or access data. Since data is stored in table format it is easy to access the data and perform the required functions. It also removes duplicate and redundant data."
+        },
+        {
+            "QuestionId": "1012",
+            "Question": "Which of the following is a function of the DBMS?",
+            "OptionA": "Storing data",
+            "OptionB": "Providing multi-users access control",
+            "OptionC": "Data Integrity",
+            "OptionD": "All of the above",
+            "Answer": "d",
+            "Explanation": "The purpose of creating DBMS was to store the data. The data stored in the database management system can be can accessed by multiple users if the access is provided. The data stored will be accurate and complete hence providing data integrity."
+        },
+        {
+            "QuestionId": "1013",
+            "Question": "Which of the following is a component of the DBMS?",
+            "OptionA": "Data",
+            "OptionB": "Data Languages",
+            "OptionC": "Data Manager",
+            "OptionD": "All of the above",
+            "Answer": "d",
+            "Explanation": "The components of DBMS are as follows:"
+        },
+        {
+            "QuestionId": "1014",
+            "Question": "Which of the following is known as a set of entities of the same type that share same properties, or attributes?",
+            "OptionA": "Relation set",
+            "OptionB": "Tuples",
+            "OptionC": "Entity set",
+            "OptionD": "Entity Relation model",
+            "Answer": "",
+            "Explanation": "In the actual world, an entity is a distinct �thing� or �object� from all other objects. For example: Each employee of an organization is an entity."
+        },
+        {
+            "QuestionId": "1015",
+            "Question": "What is information about data called?",
+            "OptionA": "Hyper data",
+            "OptionB": "Tera data",
+            "OptionC": "Meta data",
+            "OptionD": "Relations",
+            "Answer": "c",
+            "Explanation": "Information about data is known as Metadata. Metadata describes the data in detail by providing additional information like type, length of the data, etc. Metadata helps the user to understand the data."
+        },
+        {
+            "QuestionId": "1016",
+            "Question": "What does an RDBMS consist of?",
+            "OptionA": "Collection of Records",
+            "OptionB": "Collection of Keys",
+            "OptionC": "Collection of Tables",
+            "OptionD": "Collection of Fields",
+            "Answer": "c",
+            "Explanation": "It consists of a collection of tables i.e., the data is organized in tabular format. The columns of the relation are known as Fields and rows of the relation are known as fields. Constraints in a relation are known as Keys."
+        },
+        {
+            "QuestionId": "1017",
+            "Question": "The values appearing in given attributes of any tuple in the referencing relation must likewise occur in specified attributes of at least one tuple in the referenced relation, according to _____________________ integrity constraint.",
+            "OptionA": "Referential",
+            "OptionB": "Primary",
+            "OptionC": "Referencing",
+            "OptionD": "Specific",
+            "Answer": "",
+            "Explanation": "Consider 2 relations r1 and r2. r1 may include among its attributes the primary key of relation r2. This attribute is called a foreign key from r1, referencing r2. The relation r1 is also called the referencing relation of the foreign key dependency, and r2 is called the referenced relation of the foreign key."
+        },
+        {
+            "QuestionId": "1018",
+            "Question": "_____________ is a hardware component that is most important for the operation of a database management system.",
+            "OptionA": "Microphone",
+            "OptionB": "High speed, large capacity disk to store data",
+            "OptionC": "High-resolution video display",
+            "OptionD": "Printer",
+            "Answer": "b",
+            "Explanation": "Since all the data are stored in form of memory in the disk, a high speed, and large-capacity disk is required for the operation of the database management system."
+        },
+        {
+            "QuestionId": "1019",
+            "Question": "The DBMS acts as an interface between ________________ and ________________ of an enterprise-class system.",
+            "OptionA": "Data and the DBMS",
+            "OptionB": "Application and SQL",
+            "OptionC": "Database application and the database",
+            "OptionD": "The user and the software",
+            "Answer": "c",
+            "Explanation": "A database management system is an application that acts as an interface between the user and the database. The user interacts with the application to access data."
+        },
+        {
+            "QuestionId": "1020",
+            "Question": "The ability to query data, as well as insert, delete, and alter tuples, is offered by ____________",
+            "OptionA": "TCL (Transaction Control Language)",
+            "OptionB": "DCL (Data Control Language)",
+            "OptionC": "DDL (Data Definition Langauge)",
+            "OptionD": "DML (Data Manipulation Langauge)",
+            "Answer": "d",
+            "Explanation": "A query is a request for data or information. Relational Schema is the design and structure of the relation. DDL consists of commands that help in modifying. DML performs the change in the values of the relation."
+        },
+        {
+            "QuestionId": "1021",
+            "Question": "______________ is a set of one or more attributes taken collectively to uniquely identify a record.",
+            "OptionA": "Primary Key",
+            "OptionB": "Foreign key",
+            "OptionC": "Super key",
+            "OptionD": "Candidate key",
+            "Answer": "c",
+            "Explanation": "Foreign key creates a relationship between two relations. Super key is the superset of all the keys in a relation. A candidate key is used to identify tuples in a relation."
+        },
+        {
+            "QuestionId": "1022",
+            "Question": "Which command is used to remove a relation from an SQL?",
+            "OptionA": "Drop table",
+            "OptionB": "Delete",
+            "OptionC": "Purge",
+            "OptionD": "Remove",
+            "Answer": "a",
+            "Explanation": "Delete command is used to delete the existing record from the table. The drop table deletes the whole structure of the relation. Purge removes the table which cannot be obtained again."
+        },
+        {
+            "QuestionId": "1023",
+            "Question": "Which of the following set should be associated with weak entity set for weak entity to be meaningful?",
+            "OptionA": "Neighbour set",
+            "OptionB": "Strong entity set",
+            "OptionC": "Owner set",
+            "OptionD": "Identifying set",
+            "Answer": "",
+            "Explanation": "Every weak entity must be linked to an identifying entity; in other words, the existence of the weak entity set is contingent on the presence of the identifying entity set. The weak entity set that the identifying entity set identifies is said to be owned by the identifying entity set. Owner entity set is another name for it."
+        },
+        {
+            "QuestionId": "1024",
+            "Question": "Which of the following command is correct to delete the values in the relation teaches?",
+            "OptionA": "Delete from teaches;",
+            "OptionB": "Delete from teaches where Id =�Null�;",
+            "OptionC": "Remove table teaches;",
+            "OptionD": "Drop table teaches;",
+            "Answer": "",
+            "Explanation": "To delete the entries from the table Delete from table command should be used."
+        },
+        {
+            "QuestionId": "1025",
+            "Question": "Procedural language among the following is __________",
+            "OptionA": "Domain relational calculus",
+            "OptionB": "Tuple relational calculus",
+            "OptionC": "Relational algebra",
+            "OptionD": "Query language",
+            "Answer": "",
+            "Explanation": "Non-Procedural Languages are Domain relational calculus and Tuple relational calculus. Relational algebra is a procedural language that takes input in the form of relation and output generated is also a relation."
+        },
+        {
+            "QuestionId": "1026",
+            "Question": "_________________ operations do not preserve non-matched tuples.",
+            "OptionA": "Left outer join",
+            "OptionB": "Inner join",
+            "OptionC": "Natural join",
+            "OptionD": "Right outer join",
+            "Answer": "b",
+            "Explanation": "Left outer join returns all the rows from the table that is on the left side and matching rows on the right side of the join. Inner join returns all rows when there is at least one match in BOTH tables. Natural join returns the common columns from the tables being joined. A right outer join returns all the rows from the table that is on the right side and matching rows on the left side of the join."
+        },
+        {
+            "QuestionId": "1027",
+            "Question": "Which forms have a relation that contains information about a single entity?",
+            "OptionA": "4NF",
+            "OptionB": "2NF",
+            "OptionC": "5NF",
+            "OptionD": "3NF",
+            "Answer": "",
+            "Explanation": "If and only if, for each of its non-trivial multivalued dependencies X \twoheadrightarrow Y, a table is in 4NF. X is a superkey�that is, X is either a candidate key or a superset thereof."
+        },
+        {
+            "QuestionId": "1028",
+            "Question": "The top level of the hierarchy consists of ______ each of which can contain _____.",
+            "OptionA": "Schemas, Catalogs",
+            "OptionB": "Schemas, Environment",
+            "OptionC": "Environment, Schemas",
+            "OptionD": "Catalogs, Schemas",
+            "Answer": "d",
+            "Explanation": "Schemas represent the logical configuration of the DBMS. Catalogs consist of metadata of the objects and system settings used."
+        },
+        {
+            "QuestionId": "1029",
+            "Question": "_______ indicates the maximum number of entities that can be involved in a relationship.",
+            "OptionA": "Greater Entity Count",
+            "OptionB": "Minimum cardinality",
+            "OptionC": "Maximum cardinality",
+            "OptionD": "ERD",
+            "Answer": "",
+            "Explanation": "The term cardinality refers to the uniqueness of data values included in a single column (attribute) of a table in SQL (Structured Query Language)."
+        },
+        {
+            "QuestionId": "1030",
+            "Question": "The user IDs can be added or removed using which of the following fixed roles?",
+            "OptionA": "db_sysadmin",
+            "OptionB": "db_accessadmin",
+            "OptionC": "db_securityadmin",
+            "OptionD": "db_setupadmin",
+            "Answer": "b",
+            "Explanation": "Along with security, as the name suggests the db_accessadmin role also handles access. db_sysadmin refers to the system administrator. db_securityadmin as the name suggests it involves granting or declining permission to access the data ensuring security."
+        },
+        {
+            "QuestionId": "1031",
+            "Question": "Why the following statement is erroneous?",
+            "OptionA": "SELECT dept_name, ID, avg (salary)",
+            "OptionB": "FROM instructor",
+            "OptionC": "GROUP BY dept_name;",
+            "OptionD": "a) Dept_id should not be used in group by clause",
+            "Answer": "i",
+            "Explanation": ") should not be selected"
+        },
+        {
+            "QuestionId": "1032",
+            "Question": "The traditional storage of data organized by the customer, stored in separate folders in filing cabinets is an example of ______________ type of �database� management system.",
+            "OptionA": "Object-oriented database management system",
+            "OptionB": "Relational database management system",
+            "OptionC": "Network database management system",
+            "OptionD": "Hierarchical database management system",
+            "Answer": "d",
+            "Explanation": "In an object-oriented database management system, the data is stored in the form of objects. In a relational DBMS, the data is stored in the form of tables. Hierarchy is obtained by Parent-Child Relationship. Parent-Child Relationship Type is basically a 1:N relationship."
+        },
+        {
+            "QuestionId": "1033",
+            "Question": "After groups have been established, SQL applies predicates in the ___________ clause, allowing aggregate functions to be used.",
+            "OptionA": "Where",
+            "OptionB": "Having",
+            "OptionC": "Group by",
+            "OptionD": "With",
+            "Answer": "",
+            "Explanation": "The �with� clause was introduced to reduce the complexity of the queries which are lengthy. The �with� clause allows you to define a temporary relation whose definition is only visible to the query in which it appears."
+        },
+        {
+            "QuestionId": "1034",
+            "Question": "Which of the following is not the utility of DBMS?",
+            "OptionA": "i) Backup          ii) Loading            iii) Process Organization      iv) File organization",
+            "OptionB": "a) i, ii, and iv only",
+            "OptionC": "b) i, ii and iii only",
+            "OptionD": "c) i, iii and iv only",
+            "Answer": "a",
+            "Explanation": "swer: a"
+        },
+        {
+            "QuestionId": "1035",
+            "Question": "What does a foreign key combined with a primary key create?",
+            "OptionA": "Network model between the tables that connect them",
+            "OptionB": "Parent-Child relationship between the tables that connects them",
+            "OptionC": "One to many relationship between the tables that connects them",
+            "OptionD": "All of the mentioned",
+            "Answer": "",
+            "Explanation": "Using the two relationships mother and father gives us a record of a child�s mother, even if we don�t know who the father is; if the ternary connection parent is used, a null value is necessary. In this scenario, binary relationship sets are preferred."
+        },
+        {
+            "QuestionId": "1036",
+            "Question": "Which of the following is correct according to the technology deployed by DBMS?",
+            "OptionA": "Pointers are used to maintain transactional integrity and consistency",
+            "OptionB": "Cursors are used to maintain transactional integrity and consistency",
+            "OptionC": "Locks are used to maintain transactional integrity and consistency",
+            "OptionD": "Triggers are used to maintain transactional integrity and consistency",
+            "Answer": "c",
+            "Explanation": "Pointers are used to access data with great speed and accuracy. Consistency is maintained using locks."
+        },
+        {
+            "QuestionId": "1037",
+            "Question": "Which of the following is correct regarding the file produced by a spreadsheet?",
+            "OptionA": "can be used as it is by the DBMS",
+            "OptionB": "stored on disk in an ASCII text format",
+            "OptionC": "all of the mentioned",
+            "OptionD": "none of the mentioned",
+            "Answer": "",
+            "Explanation": "For updating the value in ASCII text format, a regular text file is used."
+        },
+        {
+            "QuestionId": "1038",
+            "Question": "What is the function of the following command?",
+            "OptionA": "Delete from r where P;",
+            "OptionB": "a) Clears entries from relation",
+            "OptionC": "b) Deletes relation",
+            "OptionD": "c) Deletes particular tuple from relation",
+            "Answer": "o",
+            "Explanation": "nswer: c"
+        },
+        {
+            "QuestionId": "1039",
+            "Question": "______ resembles Create view.",
+            "OptionA": "Create table . . . as",
+            "OptionB": "Create view as",
+            "OptionC": "Create table . . .like",
+            "OptionD": "With data",
+            "Answer": "",
+            "Explanation": "The �create table� as� statement is similar to the �create view� as� statement in that both are defined with queries. The main distinction is that table contents are set when the table is built, whereas view contents always reflect the current query result."
+        },
+        {
+            "QuestionId": "1040",
+            "Question": "The query specifying the SQL view is said to be updatable if it meets which of the following conditions?",
+            "OptionA": "select clause contains relation attribute names but not have expressions, aggregates, or distinct specification",
+            "OptionB": "from clause has 1 relation",
+            "OptionC": "query does not have group by or having clause",
+            "OptionD": "All of the mentioned",
+            "Answer": "",
+            "Explanation": "To update the view in sql all the conditions must be satisfied."
+        },
+        {
+            "QuestionId": "1041",
+            "Question": "When the �ROLLUP� operator for expression or columns within a �GROUP BY� clause is used?",
+            "OptionA": "Find the groups that make up the subtotal in a row",
+            "OptionB": "Create group-wise grand totals for the groups indicated in a GROUP BY clause",
+            "OptionC": "Group expressions or columns specified in a GROUP BY clause in one direction, from right to left, for computing the subtotals",
+            "OptionD": "To produce a cross-tabular report for computing subtotals by grouping phrases or columns given within a GROUP BY clause in all available directions",
+            "Answer": "c",
+            "Explanation": "A view can be thought of as a virtual table that gets its data from one or more table columns."
+        },
+        {
+            "QuestionId": "1042",
+            "Question": "Which of the following is the best way to represent the attributes in a large db?",
+            "OptionA": "Dot representation",
+            "OptionB": "Concatenation",
+            "OptionC": "Relational-and",
+            "OptionD": "All of the mentioned",
+            "Answer": "b",
+            "Explanation": "Concatenation in DBMS is used to join two or more table fields of the same table or different tables. Example inst sec and student sec."
+        },
+        {
+            "QuestionId": "1043",
+            "Question": "Which of the following is the subset of SQL commands used to manipulate Oracle Structures, including tables?",
+            "OptionA": "Data Described Language",
+            "OptionB": "Data Retrieval Language",
+            "OptionC": "Data Manipulation Language",
+            "OptionD": "Data Definition Language",
+            "Answer": "d",
+            "Explanation": "DDLs are used to define schema and table characters and consist of commands that help in modifying. DML performs the change in the values of the relation."
+        },
+        {
+            "QuestionId": "1044",
+            "Question": "Which of the following functions construct histograms and use buckets for ranking?",
+            "OptionA": "Ntil()",
+            "OptionB": "Newtil()",
+            "OptionC": "Rank()",
+            "OptionD": "All of the mentioned",
+            "Answer": "",
+            "Explanation": "ntile(n) returns the number of the bucket in which each tuple is stored, with bucket numbers beginning with 1."
+        },
+        {
+            "QuestionId": "1045",
+            "Question": "__________ command is used in SQL to issue multiple CREATE TABLE, CREATE VIEW and GRANT statements in a single transaction.",
+            "OptionA": "CREATE CLUSTER",
+            "OptionB": "CREATE PACKAGE",
+            "OptionC": "CREATE SCHEMA",
+            "OptionD": "All of the mentioned",
+            "Answer": "c",
+            "Explanation": "A schema is a description of a system�s structure in a formal language supported by the database management system, and it refers to data organization as a blueprint for how a db is built."
+        },
+        {
+            "QuestionId": "1046",
+            "Question": "Which of the following key is required in to handle the data when the encryption is applied to the data so that the unauthorised user cannot access the data?",
+            "OptionA": "Primary key",
+            "OptionB": "Authorised key",
+            "OptionC": "Encryption key",
+            "OptionD": "Decryption key",
+            "Answer": "d",
+            "Explanation": "The encryption key is used to encrypt the message. Even if the message is intercepted by an enemy, the enemy will be unable to decrypt and interpret the message because he lacks the key."
+        },
+        {
+            "QuestionId": "1047",
+            "Question": "Which of the following is known as the process of viewing cross-tab with a fixed value of one attribute?",
+            "OptionA": "Dicing",
+            "OptionB": "Pivoting",
+            "OptionC": "Slicing",
+            "OptionD": "Both Pivoting and Dicing",
+            "Answer": "",
+            "Explanation": "Slice procedure takes one dimension from a cube and turns it into a new sub-cube. Dice takes two or more dimensions from a cube and creates a new sub-cube from them."
+        },
+        {
+            "QuestionId": "1048",
+            "Question": "For designing a normal RDBMS which of the following normal form is considered adequate?",
+            "OptionA": "4NF",
+            "OptionB": "3NF",
+            "OptionC": "2NF",
+            "OptionD": "5NF",
+            "Answer": "b",
+            "Explanation": "Because most 3NF tables are free of insertion, update, and deletion anomalies, an RDBMS table is sometimes regarded as �normalized� if it is in the Third Normal Form."
+        },
+        {
+            "QuestionId": "1049",
+            "Question": "Which of the following is popular for applications such as storage of log files in a database management system since it offers the best write performance?",
+            "OptionA": "RAID level 0",
+            "OptionB": "RAID level 1",
+            "OptionC": "RAID level 2",
+            "OptionD": "RAID level 3",
+            "Answer": "b",
+            "Explanation": "RAID level 0 refers to data stripping. RAID level 1 refers to disk mirroring with block striping. RAID level 2 refers to bit-level stripping and RAID level 3 refers to byte-level striping with dedicated parity."
+        },
+        {
+            "QuestionId": "1050",
+            "Question": "Which of the following represents a query in the tuple relational calculus?",
+            "OptionA": "{ }{P(t) | t }",
+            "OptionB": "{t | P(t)}",
+            "OptionC": "t | P() | t",
+            "OptionD": "All of the mentioned",
+            "Answer": "",
+            "Explanation": "A nonprocedural query language is the tuple relational calculus. It specifies the needed information but does not provide a detailed strategy for obtaining it."
+        },
+        {
+            "QuestionId": "1051",
+            "Question": "The oldest DB model is _______________",
+            "OptionA": "Network",
+            "OptionB": "Physical",
+            "OptionC": "Hierarchical",
+            "OptionD": "Relational",
+            "Answer": "a",
+            "Explanation": "Network model has data stored in a hierarchical network flow. In a relational DBMS, the data is stored in the form of tables. Hierarchy is obtained by Parent-Child Relationship"
+        },
+        {
+            "QuestionId": "1052",
+            "Question": "Evaluate the statements issued by the DBA in the given sequence if OE and SCOTT are the users and the ORDERS table is owned by OE.",
+            "OptionA": "CREATE ROLE r1;",
+            "OptionB": "GRANT SELECT, INSERT ON oe. orders TO r1;",
+            "OptionC": "GRANT r1 TO scott;",
+            "OptionD": "GRANT SELECT ON oe. orders TO scott;",
+            "Answer": ".",
+            "Explanation": "the outcome after executing the statements?"
+        },
+        {
+            "QuestionId": "1053",
+            "Question": "Which of the following establishes a top-to-bottom relationship among the items?",
+            "OptionA": "Relational schema",
+            "OptionB": "Network schema",
+            "OptionC": "Hierarchical schema",
+            "OptionD": "All of the mentioned",
+            "Answer": "c",
+            "Explanation": "A data model in which the data is structured into a tree-like structure is known as a hierarchical model. The structure allows information to be represented using parent-child relationships."
+        },
+        {
+            "QuestionId": "1054",
+            "Question": "A major goal of the db system is to minimize the number of block transfers between the disk and memory. Which of the following helps in achieving this goal?",
+            "OptionA": "Secondary storage",
+            "OptionB": "Storage",
+            "OptionC": "Catalog",
+            "OptionD": "Buffer",
+            "Answer": "d",
+            "Explanation": "Every block has a copy on disc, however, the copy on the disc may be an earlier version of the block than the version in the buffer."
+        },
+        {
+            "QuestionId": "1055",
+            "Question": "What happens if a piece of data is stored in two places in the db?",
+            "OptionA": "Storage space is wasted & Changing the data in one spot will cause data inconsistency",
+            "OptionB": "In can be more easily accessed",
+            "OptionC": "Changing the data in one spot will cause data inconsistency",
+            "OptionD": "Storage space is wasted",
+            "Answer": "a",
+            "Explanation": "One of the main features of a database management system is minimum data duplication and redundancy. Hence, is always consistent and so there is no duplication."
+        },
+        {
+            "QuestionId": "1056",
+            "Question": "The logical design, and the snapshot of the data at a given instant in time is known as?",
+            "OptionA": "Instance & Relation",
+            "OptionB": "Relation & Schema",
+            "OptionC": "Domain & Schema",
+            "OptionD": "Schema & Instance",
+            "Answer": "d",
+            "Explanation": "Instance is an instance of time, the relation is also known as table consists of data with similar characteristics, Domain is the collection of values that an attribute can contain and schema is a representation."
+        }
+    ],
+    "computerGraphics": [
+        {
+            "QuestionId": "1001",
+            "Question": "Which of the following statements define Computer Graphics?",
+            "OptionA": "It refers to designing plans",
+            "OptionB": "It means designing computers",
+            "OptionC": "It refers to designing images",
+            "OptionD": "None of the mentioned",
+            "Answer": "c",
+            "Explanation": "Computer Graphics refers to designing or generating images using computers."
+        },
+        {
+            "QuestionId": "1002",
+            "Question": "Among the given scientists/inventor who is known as the father of Computer Graphics?",
+            "OptionA": "Nikola Tesla",
+            "OptionB": "Ivan Sutherland",
+            "OptionC": "Ada Lovelace",
+            "OptionD": "Marie Curie",
+            "Answer": "b",
+            "Explanation": "Ivan Sutherland is considered the father of Computer Graphics. He is the inventor of an interactive graphics system called sketchpad in 1963."
+        },
+        {
+            "QuestionId": "1003",
+            "Question": "Explanation: Ivan Sutherland is considered the father of Computer Graphics. He is the inventor of an interactive graphics system called sketchpad in 1963.",
+            "OptionA": "3. Which of the following are the features of Computer Graphics?",
+            "OptionB": "a) Creation and deletion of images by computer only",
+            "OptionC": "b) Deletion and manipulation of graphical images by computer",
+            "OptionD": "c) Creation and manipulation of graphics by computer",
+            "Answer": "f",
+            "Explanation": "swer: c"
+        },
+        {
+            "QuestionId": "1004",
+            "Question": "Which of the following is a Computer Graphics type?",
+            "OptionA": "Raster and Vector",
+            "OptionB": "Raster and Scalar",
+            "OptionC": "Scalar only",
+            "OptionD": "All of the above",
+            "Answer": "a",
+            "Explanation": "Vector graphics are computer-rendered visual art that follows a mathematical formula. Raster images are made up of thousands of tiny pixels, making them resolution-dependent and ideally suited for photo editing."
+        },
+        {
+            "QuestionId": "1005",
+            "Question": "Which of the following plane is used for 2D transformations?",
+            "OptionA": "Three-dimensional plane",
+            "OptionB": "Two-dimensional plane",
+            "OptionC": "One-dimensional plane",
+            "OptionD": "Four-dimensional Plane",
+            "Answer": "b",
+            "Explanation": "A two-dimensional plane is used for 2D transformations. Transformations are useful for modifying an object�s position, size, orientation, and shape, among other things."
+        },
+        {
+            "QuestionId": "1006",
+            "Question": "Which of the following is a Computer Graphics Curve?",
+            "OptionA": "Bezier Curves",
+            "OptionB": "Implicit Curves",
+            "OptionC": "Explicit Curves",
+            "OptionD": "All of the above",
+            "Answer": "d",
+            "Explanation": "A curve is made up of an unlimited number of points. Except for endpoints, each point has two neighbors. Explicit, implicit, Bezier and parametric curves are the three types of curves."
+        },
+        {
+            "QuestionId": "1007",
+            "Question": "Who is the first user of computer graphics?",
+            "OptionA": "William Fetter",
+            "OptionB": "Ivan Edward Sutherland",
+            "OptionC": "Ada Lovelace",
+            "OptionD": "Nicholas Williams",
+            "Answer": "a",
+            "Explanation": "In 1960s William Fetter used computer graphics to create cockpit drawing. He along with Verne Hudson did research on computer graphics."
+        },
+        {
+            "QuestionId": "1008",
+            "Question": "Which of the following is the purpose for using clipping in computer graphics?",
+            "OptionA": "copying",
+            "OptionB": "zooming",
+            "OptionC": "adding graphics",
+            "OptionD": "removing objects and lines",
+            "Answer": "d",
+            "Explanation": "Clipping is a technique for removing objects, lines, and line segments that are outside of the viewing pane. Several types of clippings are used in computer graphics like:"
+        },
+        {
+            "QuestionId": "1009",
+            "Question": "In a graphical system, an array of pixels in the picture are stored in which of the following locations?",
+            "OptionA": "Frame buffer",
+            "OptionB": "Processor",
+            "OptionC": "Memory",
+            "OptionD": "All of the mentioned",
+            "Answer": "c",
+            "Explanation": "The main purpose of using a framer buffer is to store pixels."
+        },
+        {
+            "QuestionId": "1010",
+            "Question": "Curves in computer graphics is primarily used for which of the following function?",
+            "OptionA": "To draw different types of objects onto the screen",
+            "OptionB": "Zooming out a picture",
+            "OptionC": "Copying a picture",
+            "OptionD": "Zooming in a picture",
+            "Answer": "a",
+            "Explanation": "We frequently need to draw several types of things onto the screen in computer graphics. Objects are not always flat, and we must draw curves many times in order to draw an object."
+        },
+        {
+            "QuestionId": "1011",
+            "Question": "__________ types of translation are present in computer graphics.",
+            "OptionA": "5",
+            "OptionB": "3",
+            "OptionC": "4",
+            "OptionD": "6",
+            "Answer": "b",
+            "Explanation": "There are three types of translation techniques in computer graphics: point translation (which deals with a single point), line translation (which deals with a line), and polygon translation (which deals with a polygon) (deals with a shape)."
+        },
+        {
+            "QuestionId": "1012",
+            "Question": "Bitmap is a collection of ____________ that describes an image.",
+            "OptionA": "pixels",
+            "OptionB": "algorithms",
+            "OptionC": "bits",
+            "OptionD": "colors",
+            "Answer": "a",
+            "Explanation": "A bitmap is a set of pixels that make up an image. It�s a sort of computer graphics that lets you store and show photographs on your computer."
+        },
+        {
+            "QuestionId": "1013",
+            "Question": "Which of the following devices provides positional information to the graphics system?",
+            "OptionA": "Pointing devices",
+            "OptionB": "Both Input devices and Pointing devices",
+            "OptionC": "Output devices",
+            "OptionD": "Input devices",
+            "Answer": "b",
+            "Explanation": "Input devices provide positional information to the system they are often called pointing devices."
+        },
+        {
+            "QuestionId": "1014",
+            "Question": "Which of the following is defined as the number of pixels stored in the frame buffer of a graphics system?",
+            "OptionA": "Resalution",
+            "OptionB": "Resolution",
+            "OptionC": "Depth",
+            "OptionD": "None of the mentioned",
+            "Answer": "d",
+            "Explanation": "The Resolution is defined as the number of pixels."
+        },
+        {
+            "QuestionId": "1015",
+            "Question": "Which of the following is a primary output device of a graphics system?",
+            "OptionA": "Printer",
+            "OptionB": "Scanner",
+            "OptionC": "Video monitor",
+            "OptionD": "Neither Scanner nor Video monitor",
+            "Answer": "c",
+            "Explanation": "The video monitor is the commonly used output device since it displays the images on the screen."
+        },
+        {
+            "QuestionId": "1016",
+            "Question": "Which of the following is used in graphics workstations as input devices to accept voice commands?",
+            "OptionA": "Speech recognizers",
+            "OptionB": "Touch panels",
+            "OptionC": "None of the mentioned",
+            "OptionD": "All of the mentioned",
+            "Answer": "a",
+            "Explanation": "Speech recognizers allow users to issue voice commands."
+        },
+        {
+            "QuestionId": "1017",
+            "Question": "What is the use of voice system input?",
+            "OptionA": "To enter data",
+            "OptionB": "To initiate graphics operation and also to enter data",
+            "OptionC": "To initiate graphics operation",
+            "OptionD": "None of the mentioned",
+            "Answer": "b",
+            "Explanation": "The voice system input is utilized to start graphics operations or to enter data."
+        },
+        {
+            "QuestionId": "1018",
+            "Question": "Which of the following is defined as the process of elimination of parts of a scene outside a window or a viewport?",
+            "OptionA": "editing",
+            "OptionB": "cutting",
+            "OptionC": "plucking",
+            "OptionD": "clipping",
+            "Answer": "d",
+            "Explanation": "Clipping is the process of removing excess content from a project. Clipping is a way of selectively enabling or disabling rendering activities within a defined region of interest in computer graphics."
+        },
+        {
+            "QuestionId": "1019",
+            "Question": "Which of the following is known as the window opened on the raster graphics screen in which the image will be displayed?",
+            "OptionA": "Interface window",
+            "OptionB": "World window",
+            "OptionC": "World co-ordinate system",
+            "OptionD": "Screen co-ordinate system",
+            "Answer": "a",
+            "Explanation": "In layman�s terms, it�s referred to as a graphical user interface (GUI). Users can interact with electronic equipment by using graphical icons and visual indicators like secondary notation."
+        },
+        {
+            "QuestionId": "1020",
+            "Question": "Which of the following operations can be used to zoom in or out around any axis on a three-dimensional object from its original position?",
+            "OptionA": "Rotation",
+            "OptionB": "Shearing",
+            "OptionC": "Scaling",
+            "OptionD": "Translation",
+            "Answer": "c",
+            "Explanation": "Scaling is the process of changing or modifying the size of objects in computer graphics. The object�s size can be increased or decreased via scaling."
+        },
+        {
+            "QuestionId": "1021",
+            "Question": "Among the following process, which process is known as the elimination of parts of a scene outside a window or a viewport?",
+            "OptionA": "editing",
+            "OptionB": "plucking",
+            "OptionC": "cutting",
+            "OptionD": "clipping",
+            "Answer": "d",
+            "Explanation": "Clipping is the process of removing excess content from a project. Clipping is a way of selectively enabling or disabling rendering activities within a defined region of interest in computer graphics."
+        },
+        {
+            "QuestionId": "1022",
+            "Question": "Viewing transformation is the process of mapping a world window in World Coordinates to the Viewport.",
+            "OptionA": "False",
+            "OptionB": "True",
+            "OptionC": "View AnswerAnswer: b",
+            "OptionD": "Explanation: The viewing transformation is a computer graphics procedure in which the maps represent the perspective view of an object in world coordinates into the display space of a physical device.",
+            "Answer": "l",
+            "Explanation": ""
+        },
+        {
+            "QuestionId": "1023",
+            "Question": "Which of the following is defined as the drawing of number of copies of the same image in rows and columns across the interface window so that they cover the entire window?",
+            "OptionA": "Zooming",
+            "OptionB": "Panning",
+            "OptionC": "Tiling",
+            "OptionD": "Roaming",
+            "Answer": "c",
+            "Explanation": "�Tilling� is the process of drawing several copies of the same image in rows and columns across the interface window until the entire window is covered. In computer graphics, the window remains static while the viewpoint is modified multiple times to accomplish tiling."
+        },
+        {
+            "QuestionId": "1024",
+            "Question": "How many axes do 3D graphics consist of?",
+            "OptionA": "Two axes",
+            "OptionB": "Three axes",
+            "OptionC": "Five axes",
+            "OptionD": "One axis",
+            "Answer": "b",
+            "Explanation": "The x-axis, y-axis, and z-axis are the three axes that make up a three-dimensional graphic. The length, breadth, and height of a three-dimensional object are represented by these axes."
+        },
+        {
+            "QuestionId": "1025",
+            "Question": "Which of the following is the most commonly used boundary representation for a 3-dimensional graphics object?",
+            "OptionA": "Volume polygon",
+            "OptionB": "System polygon",
+            "OptionC": "Data polygon",
+            "OptionD": "Surface polygon",
+            "Answer": "d",
+            "Explanation": "The most common border representation for a 3-D graphics item is a surface polygon. This surface polygon encloses the object�s inside. A set of polygons is maintained for a description of the object in this way of representation."
+        },
+        {
+            "QuestionId": "1026",
+            "Question": "Which of the following is the process of digitizing a given picture definition into a set of pixel-intensity for storage in the frame buffer?",
+            "OptionA": "Scan conversion",
+            "OptionB": "True color system",
+            "OptionC": "Encoding",
+            "OptionD": "Rasterization",
+            "Answer": "a",
+            "Explanation": "The digitization of a picture definition into a collection of pixel-intensity for storage in the frame buffer process is called scan conversion."
+        },
+        {
+            "QuestionId": "1027",
+            "Question": "Which of the following is commonly known as frame buffer on a black and white system with one bit per pixel?",
+            "OptionA": "Bitmap",
+            "OptionB": "Pix map",
+            "OptionC": "Multi map",
+            "OptionD": "All of the mentioned",
+            "Answer": "a",
+            "Explanation": "The bit map frame buffer is always 1 bit per pixel."
+        },
+        {
+            "QuestionId": "1028",
+            "Question": "Which of the following algorithm is a faster method for calculating pixel positions?",
+            "OptionA": "Parallel line algorithm",
+            "OptionB": "Mid-point algorithm",
+            "OptionC": "DDA line algorithm",
+            "OptionD": "Bresenham�s line algorithm",
+            "Answer": "c",
+            "Explanation": "The fastest method DDA for calculating pixel positions is a faster method."
+        },
+        {
+            "QuestionId": "1029",
+            "Question": "If the boundary is specified in a single color, and if the algorithm proceeds pixel by pixel until the boundary color is encountered is known as ____",
+            "OptionA": "Parallel curve algorithm",
+            "OptionB": "Flood-fill algorithm",
+            "OptionC": "Scan-line fill algorithm",
+            "OptionD": "Boundary-fill algorithm",
+            "Answer": "d",
+            "Explanation": "This algorithm proceeds outward pixel by pixel until the boundary color is encountered."
+        },
+        {
+            "QuestionId": "1030",
+            "Question": "Which of the following defines a pixel mask?",
+            "OptionA": "A string containing 1 and 0",
+            "OptionB": "A string containing 0 and 0",
+            "OptionC": "A string containing only 0�s",
+            "OptionD": "A string containing only 1;s",
+            "Answer": "a",
+            "Explanation": "Inter-span spacing can be specified in a pixel mask that contains digits 1 and 0."
+        },
+        {
+            "QuestionId": "1031",
+            "Question": "What does an aspect ratio mean?",
+            "OptionA": "Ratio of vertical points to horizontal points",
+            "OptionB": "Ratio of vertical points to horizontal points and horizontal points to vertical points",
+            "OptionC": "Number of pixels",
+            "OptionD": "Ratio of horizontal points to vertical points",
+            "Answer": "b",
+            "Explanation": "The ratio of vertical points to horizontal points and horizontal points to vertical points is known as an aspect ratio."
+        },
+        {
+            "QuestionId": "1032",
+            "Question": "Which of the following is a correct abbreviation of DDA algorithm?",
+            "OptionA": "Data differential analyzer",
+            "OptionB": "Direct differential analyzer",
+            "OptionC": "Digital difference analyzer",
+            "OptionD": "Digital differential analyzer",
+            "Answer": "d",
+            "Explanation": "DDA stands for the digital differential analyzer."
+        },
+        {
+            "QuestionId": "1033",
+            "Question": "The Cohen-Sutherland algorithm divides the region into how many spaces?",
+            "OptionA": "9",
+            "OptionB": "8",
+            "OptionC": "7",
+            "OptionD": "6",
+            "Answer": "a",
+            "Explanation": "The Cohen-Sutherland algorithm divides a two-dimensional space into 9 areas before determining the visible lines and sections of lines. The sections of interest are seen in the central region."
+        },
+        {
+            "QuestionId": "1034",
+            "Question": "The Cohen Sutherland algorithm is more efficient than the Liang-Barsky algorithm.",
+            "OptionA": "False",
+            "OptionB": "True",
+            "OptionC": "View AnswerAnswer: a",
+            "OptionD": "Explanation: Because the Liang�Barsky clipping technique performs as much testing as feasible before computing line crossings, it is significantly more efficient than other algorithms.",
+            "Answer": "l",
+            "Explanation": ""
+        },
+        {
+            "QuestionId": "1035",
+            "Question": "Which of the following is used for 3D positioning and modeling, animation, and other application?",
+            "OptionA": "Spac ball",
+            "OptionB": "Trackball",
+            "OptionC": "Space ball",
+            "OptionD": "All of the mentioned",
+            "Answer": "c",
+            "Explanation": "A space ball is a 3D positioning device."
+        },
+        {
+            "QuestionId": "1036",
+            "Question": "Which of the following can be used to determine the position on the data tablet?",
+            "OptionA": "Either Signal strength or coded pulse",
+            "OptionB": "Coded pulse",
+            "OptionC": "Signal strength",
+            "OptionD": "Strip microphones",
+            "Answer": "a",
+            "Explanation": "Either Signal strength or coded pulse determines the position on the data tablet."
+        },
+        {
+            "QuestionId": "1037",
+            "Question": "Which of the following type of perspective projection is also called �Angular Perspective�?",
+            "OptionA": "Four-Point",
+            "OptionB": "Three-point",
+            "OptionC": "One-point",
+            "OptionD": "Two-point",
+            "Answer": "d",
+            "Explanation": "�Angular Perspective� is another name for Two-Point. The two vanishing points on the line in a two-point perspective form an angle between them, which is why it is also known as angular perspective."
+        },
+        {
+            "QuestionId": "1038",
+            "Question": "Which of the following type of perspective projection is used in drawings of railway lines?",
+            "OptionA": "Three-point",
+            "OptionB": "Two-point",
+            "OptionC": "One-point",
+            "OptionD": "Perspective projection is not used to draw railway lines",
+            "Answer": "c",
+            "Explanation": "The One Point projection is commonly used to depict highways, railroad tracks, and buildings. Only one vanishing point on the horizon line is present in a One-Point perspective, which aids in the creation of railway tracks."
+        },
+        {
+            "QuestionId": "1039",
+            "Question": "Which of the following representation represents a three-dimensional object?",
+            "OptionA": "Function",
+            "OptionB": "Point",
+            "OptionC": "Polygon",
+            "OptionD": "Equation",
+            "Answer": "d",
+            "Explanation": "An equation representation can be used to represent a three-dimensional entity. Three variables, x, y, and z, and four coefficients, A, B, C, and D, make up the equation for a three-dimensional object."
+        },
+        {
+            "QuestionId": "1040",
+            "Question": "Which part of a picture is considered and saved in exterior clipping?",
+            "OptionA": "We don�t consider the picture in exterior clipping",
+            "OptionB": "Picture which is outside the view window",
+            "OptionC": "Picture which is inside the view window",
+            "OptionD": "Picture which is on the edges of the view window",
+            "Answer": "b",
+            "Explanation": "The image beyond the view window is examined and preserved throughout the external cutting procedure. The portion of the image that is visible through the view window is discarded. The external clipping method is the polar opposite of the text and curve clipping methods."
+        },
+        {
+            "QuestionId": "1041",
+            "Question": "Which of the following clipping process handles the clipping of strings?",
+            "OptionA": "Text Clipping",
+            "OptionB": "Exterior Clipping",
+            "OptionC": "Curve Clipping",
+            "OptionD": "Shape Clipping",
+            "Answer": "a",
+            "Explanation": "Text Clipping is the technique that manages string clipping. It�s the method for determining which parts of the string should be kept depending on their position in the view window. Text Clippings come in a variety of forms, such as all or none character clipping, all or none string clipping, and so on."
+        },
+        {
+            "QuestionId": "1042",
+            "Question": "Which of the following algorithm can be used to clip a polygon in 3D space?",
+            "OptionA": "Vatti Clipping Algorithm",
+            "OptionB": "Polygon in 3D space cannot be clipped",
+            "OptionC": "Weiler Atherton Algorithm",
+            "OptionD": "Greiner Hormann Clipping Algorithm",
+            "Answer": "c",
+            "Explanation": "Weiler Atherton Method is a 2D algorithm that may also be utilised in 3D space. It is primarily utilised in 2D space, but with the help of Z-ordering, it can also be used in 3D space. The Greiner Hormann Clipping algorithm and the Vatti Clipping method only function in 2D space."
+        },
+        {
+            "QuestionId": "1043",
+            "Question": "How is the line path on the polygon area for a 45% line?",
+            "OptionA": "Vertical",
+            "OptionB": "Horizontal",
+            "OptionC": "Centered",
+            "OptionD": "None of the mentioned",
+            "Answer": "a",
+            "Explanation": "Only if a line is 45 percent is the line path centered on the polygon region."
+        },
+        {
+            "QuestionId": "1044",
+            "Question": "Which of the following is defined as the sampling of object characteristics at a high resolution and displaying the result at a lower resolution?",
+            "OptionA": "Anti-aliasing",
+            "OptionB": "Super-sampling or Post-filtering",
+            "OptionC": "Post-filtering",
+            "OptionD": "Super-sampling",
+            "Answer": "b",
+            "Explanation": "By computing intensities and combining findings to create pixel intensities, super-sampling is also known as Post-filtering."
+        },
+        {
+            "QuestionId": "1045",
+            "Question": "Which of the following is the correct full form of the NLN line clipping algorithm?",
+            "OptionA": "Nicholai-Lee-Nicholl algorithm",
+            "OptionB": "Nicholl-Liang-Nicholl algorithm",
+            "OptionC": "Nicholl-Lee-Nicholl algorithm",
+            "OptionD": "Nicholai-Liang-Nicholl algorithm",
+            "Answer": "c",
+            "Explanation": "The full form of the NLN clipping algorithm is the Nicholl-Lee-Nicholl algorithm. It is a fast method of clipping."
+        },
+        {
+            "QuestionId": "1046",
+            "Question": "�Skala� is an example of which of the following type of clipping?",
+            "OptionA": "polygon clipping",
+            "OptionB": "line clipping",
+            "OptionC": "curve clipping",
+            "OptionD": "point clipping",
+            "Answer": "b",
+            "Explanation": "Skala is a clipping procedure that can be used to clip a line or a line segment against a rectangular window as well as a convex polygon. Its algorithm is based on duality and homogeneous coordinates."
+        },
+        {
+            "QuestionId": "1047",
+            "Question": "Which of the following is not a type of area sampling?",
+            "OptionA": "Point sampling",
+            "OptionB": "Weighted area sampling",
+            "OptionC": "Anti-aliasing",
+            "OptionD": "Unweighted area sampling",
+            "Answer": "a",
+            "Explanation": "Weighted and unweighted area sampling are two methods of area sampling that differ in terms of intensity proportionality. Unweighted area sampling is also known as anti-aliasing, but point sampling is not a sort of area sampling."
+        },
+        {
+            "QuestionId": "1048",
+            "Question": "In which of the following method, fixed pattern of a line is used to generate characters?",
+            "OptionA": "Dot-matrix method",
+            "OptionB": "Bitmap method",
+            "OptionC": "Stroke method",
+            "OptionD": "Starbust method",
+            "Answer": "d",
+            "Explanation": "A mixture of 24bit line segments is employed in the Starbust approach. It is a character generating method in which only 24 strokes are defined for character generation."
+        },
+        {
+            "QuestionId": "1049",
+            "Question": "Which of the following stores the picture information as a charge distribution behind the phosphor-coated screen?",
+            "OptionA": "Direct-view storage tube",
+            "OptionB": "Flat panel displays",
+            "OptionC": "3D viewing device",
+            "OptionD": "Cathode ray tube",
+            "Answer": "a",
+            "Explanation": "DVST saves the picture information behind the screen rather than updating it."
+        },
+        {
+            "QuestionId": "1050",
+            "Question": "Which of the following device is designed to minimize the background sound?",
+            "OptionA": "Joystick",
+            "OptionB": "Data glove",
+            "OptionC": "Microphone",
+            "OptionD": "Digitizers",
+            "Answer": "c",
+            "Explanation": "The microphone is designed to minimize the background sound."
+        }
+    ],
+    "CAO": [
+        {
+            "QuestionId": "1001",
+            "Question": "What is computer architecture?",
+            "OptionA": "set of categories and methods that specify the functioning, organisation, and implementation of computer systems",
+            "OptionB": "set of principles and methods that specify the functioning, organisation, and implementation of computer systems",
+            "OptionC": "set of functions and methods that specify the functioning, organisation, and implementation of computer systems",
+            "OptionD": "None of the mentioned",
+            "Answer": "b",
+            "Explanation": "A set of principles and methods that specify the functioning, organisation, and implementation of computer systems is known as computer architecture. A system�s architecture refers to its structure in terms of the system�s individually specified components and their interrelationships."
+            },
+            {
+            "QuestionId": "1002",
+            "Question": "What is computer organization?",
+            "OptionA": "structure and behaviour of a computer system as observed by the user",
+            "OptionB": "structure of a computer system as observed by the developer",
+            "OptionC": "structure and behaviour of a computer system as observed by the developer",
+            "OptionD": "All of the mentioned",
+            "Answer": "",
+            "Explanation": "The structure and behaviour of a computer system as observed by the user is the subject of computer organisation."
+            },
+            {
+            "QuestionId": "1003",
+            "Question": "Which of the following is a type of computer architecture?",
+            "OptionA": "Microarchitecture",
+            "OptionB": "Harvard Architecture",
+            "OptionC": "Von-Neumann Architecture",
+            "OptionD": "All of the mentioned",
+            "Answer": "d",
+            "Explanation": "Below are the types of Computer Architecture:"
+            },
+            {
+            "QuestionId": "1004",
+            "Question": "Which of the following is a type of architecture used in the computers nowadays?",
+            "OptionA": "Microarchitecture",
+            "OptionB": "Harvard Architecture",
+            "OptionC": "Von-Neumann Architecture",
+            "OptionD": "System Design",
+            "Answer": "c",
+            "Explanation": "John von Neumann proposed this architecture. The architecture of today�s computers is based on von Neumann architecture. It is based on a few ideas."
+            },
+            {
+            "QuestionId": "1005",
+            "Question": "Which of the following is the subcategories of computer architecture?",
+            "OptionA": "Microarchitecture",
+            "OptionB": "Instruction set architecture",
+            "OptionC": "Systems design",
+            "OptionD": "All of the mentioned",
+            "Answer": "a",
+            "Explanation": "The three main subcategories of computer architecture are:"
+            },
+            {
+            "QuestionId": "1006",
+            "Question": "Which of the architecture is power efficient?",
+            "OptionA": "RISC",
+            "OptionB": "ISA",
+            "OptionC": "IANA",
+            "OptionD": "CISC",
+            "Answer": "a",
+            "Explanation": "Hence the RISC architecture is followed in the design of mobile devices."
+            },
+            {
+            "QuestionId": "1007",
+            "Question": "What does CSA stands for?",
+            "OptionA": "Computer Service Architecture",
+            "OptionB": "Computer Speed Addition",
+            "OptionC": "Carry Save Addition",
+            "OptionD": "None of the mentioned",
+            "Answer": "b",
+            "Explanation": "The CSA is used to speed up the addition of multiplicands."
+            },
+            {
+            "QuestionId": "1008",
+            "Question": "If an exception is raised and the succeeding instructions are executed completely, then the processor is said to have ______",
+            "OptionA": "Generation word",
+            "OptionB": "Exception handling",
+            "OptionC": "Imprecise exceptions",
+            "OptionD": "None of the mentioned",
+            "Answer": "c",
+            "Explanation": "The processor since as executed the following instructions even though an exception was raised, hence the exception is treated as imprecise."
+            },
+            {
+            "QuestionId": "1009",
+            "Question": "To reduce the memory access time we generally make use of  ______",
+            "OptionA": "SDRAM�s",
+            "OptionB": "Heaps",
+            "OptionC": "Cache�s",
+            "OptionD": "Higher capacity RAM�s",
+            "Answer": "c",
+            "Explanation": "The time required to access a part of the memory for data retrieval."
+            },
+            {
+            "QuestionId": "1010",
+            "Question": "The IA-32 system follows which of the following design?",
+            "OptionA": "CISC",
+            "OptionB": "SIMD",
+            "OptionC": "RISC",
+            "OptionD": "None of the mentioned",
+            "Answer": "a",
+            "Explanation": "This system architecture is used to reduce the steps involved in execution by performing complex operations in one step."
+            },
+            {
+            "QuestionId": "1011",
+            "Question": "Which of the following architecture is suitable for a wide range of data types?",
+            "OptionA": "IA-32",
+            "OptionB": "ARM",
+            "OptionC": "ASUS firebird",
+            "OptionD": "68000",
+            "Answer": "a",
+            "Explanation": "IA-32 architecture is suitable for a wide range of data types."
+            },
+            {
+            "QuestionId": "1012",
+            "Question": "In IA-32 architecture along with the general flags, which of the following conditional flags are provided?",
+            "OptionA": "TF",
+            "OptionB": "IOPL",
+            "OptionC": "IF",
+            "OptionD": "All of the mentioned",
+            "Answer": "d",
+            "Explanation": "These flags are basically used to check the system for exceptions."
+            },
+            {
+            "QuestionId": "1013",
+            "Question": "The VLIW architecture follows _____ approach to achieve parallelism.",
+            "OptionA": "SISD",
+            "OptionB": "MIMD",
+            "OptionC": "MISD",
+            "OptionD": "SIMD",
+            "Answer": "b",
+            "Explanation": "The MIMD stands for Multiple Instructions Multiple Data."
+            },
+            {
+            "QuestionId": "1014",
+            "Question": "What does VLIW stands for?",
+            "OptionA": "Very Long Instruction Width",
+            "OptionB": "Very Large Instruction Word",
+            "OptionC": "Very Long Instruction Width",
+            "OptionD": "Very Long Instruction Word",
+            "Answer": "d",
+            "Explanation": "It is the architecture designed to perform multiple operations in parallel."
+            },
+            {
+            "QuestionId": "1015",
+            "Question": "In CISC architecture most of the complex instructions are stored in _____",
+            "OptionA": "CMOS",
+            "OptionB": "Register",
+            "OptionC": "Transistors",
+            "OptionD": "Diodes",
+            "Answer": "c",
+            "Explanation": "In CISC architecture more emphasis is given on the instruction set and the instructions take over a cycle to complete."
+            },
+            {
+            "QuestionId": "1016",
+            "Question": "Both the CISC and RISC architectures have been developed to reduce the ______",
+            "OptionA": "Time delay",
+            "OptionB": "Semantic gap",
+            "OptionC": "Cost",
+            "OptionD": "All of the mentioned",
+            "Answer": "b",
+            "Explanation": "The semantic gap is the gap between the high level language and the low level language."
+            },
+            {
+            "QuestionId": "1017",
+            "Question": "________ are the different type/s of generating control signals.",
+            "OptionA": "Hardwired",
+            "OptionB": "Micro-instruction",
+            "OptionC": "Micro-programmed",
+            "OptionD": "Both Micro-programmed and Hardwired",
+            "Answer": "d",
+            "Explanation": "The above is used to generate control signals in different types of system architectures."
+            },
+            {
+            "QuestionId": "1018",
+            "Question": "If the instruction Add R1, R2, R3 is executed in a system which is pipelined, then the value of S is (Where S is term of the Basic performance equation).",
+            "OptionA": "2",
+            "OptionB": "~1",
+            "OptionC": "~7",
+            "OptionD": "2",
+            "Answer": "b",
+            "Explanation": "The value will be much lower in case of multiple BUS organisation."
+            },
+            {
+            "QuestionId": "1019",
+            "Question": "The small extremely fast, RAM�s all called as ________",
+            "OptionA": "Heaps",
+            "OptionB": "Accumulators",
+            "OptionC": "Stacks",
+            "OptionD": "Cache",
+            "Answer": "a",
+            "Explanation": "Cache�s are extremely essential in single BUS organisation to achieve fast operation."
+            },
+            {
+            "QuestionId": "1020",
+            "Question": "For a given FINITE number of instructions to be executed, which architecture of the processor provides for a faster execution?",
+            "OptionA": "ANSA",
+            "OptionB": "Super-scalar",
+            "OptionC": "ISA",
+            "OptionD": "All of the mentioned",
+            "Answer": "b",
+            "Explanation": "In super-scalar architecture, the instructions are set in groups and they�re decoded and executed together reducing the amount of time required to process them."
+            },
+            {
+            "QuestionId": "1021",
+            "Question": "What is the full form of ISA?",
+            "OptionA": "Industry Standard Architecture",
+            "OptionB": "International Standard Architecture",
+            "OptionC": "International American Standard",
+            "OptionD": "None of the mentioned",
+            "Answer": "c",
+            "Explanation": "The ISA is an architectural standard developed by IBM for its PC�s."
+            },
+            {
+            "QuestionId": "1022",
+            "Question": "Which of the following is the fullform of CISC?",
+            "OptionA": "Complex Instruction Sequential Compilation",
+            "OptionB": "Complete Instruction Sequential Compilation",
+            "OptionC": "Computer Integrated Sequential Compiler",
+            "OptionD": "Complex Instruction Set Computer",
+            "Answer": "d",
+            "Explanation": "The CISC machines are well adept at handling multiple BUS organisation."
+            },
+            {
+            "QuestionId": "1023",
+            "Question": "The reason for the cells to lose their state over time is ________",
+            "OptionA": "Use of Shift registers",
+            "OptionB": "The lower voltage levels",
+            "OptionC": "Usage of capacitors to store the charge",
+            "OptionD": "None of the mentioned",
+            "Answer": "",
+            "Explanation": "Since capacitors are used the charge dissipates over time."
+            },
+            {
+            "QuestionId": "1024",
+            "Question": "In order to read multiple bytes of a row at the same time, we make use of ______",
+            "OptionA": "Memory extension",
+            "OptionB": "Cache",
+            "OptionC": "Shift register",
+            "OptionD": "Latch",
+            "Answer": "",
+            "Explanation": "The latch makes it easy to ready multiple bytes of data of the same row simultaneously by just giving the consecutive column address."
+            },
+            {
+            "QuestionId": "1025",
+            "Question": "The difference in the address and data connection between DRAM�s and SDRAM�s is _______",
+            "OptionA": "The requirement of more address lines in SDRAM�s",
+            "OptionB": "The usage of a buffer in SDRAM�s",
+            "OptionC": "The usage of more number of pins in SDRAM�s",
+            "OptionD": "None of the mentioned",
+            "Answer": "",
+            "Explanation": "The SDRAM uses buffered storage of address and data."
+            },
+            {
+            "QuestionId": "1026",
+            "Question": "The chip can be disabled or cut off from an external connection using ______",
+            "OptionA": "ACPT",
+            "OptionB": "RESET",
+            "OptionC": "LOCK",
+            "OptionD": "Chip select",
+            "Answer": "",
+            "Explanation": "The chip gets enabled if the CS is set otherwise the chip gets disabled."
+            },
+            {
+            "QuestionId": "1027",
+            "Question": "The controller multiplexes the addresses after getting the _____ signal.",
+            "OptionA": "INTR",
+            "OptionB": "ACK",
+            "OptionC": "RESET",
+            "OptionD": "Request",
+            "Answer": "",
+            "Explanation": "The controller gets the request from the device needing the memory read or write operation and then it multiplexes the address."
+            },
+            {
+            "QuestionId": "1028",
+            "Question": "The data is transferred over the RAMBUS as _______",
+            "OptionA": "Blocks",
+            "OptionB": "Swing voltages",
+            "OptionC": "Bits",
+            "OptionD": "Packets",
+            "Answer": "",
+            "Explanation": "By using voltage swings to transfer data, the transfer rate along with efficiency is improved."
+            },
+            {
+            "QuestionId": "1029",
+            "Question": "The memory devices which are similar to EEPROM but differ in the cost effectiveness is ______",
+            "OptionA": "CMOS",
+            "OptionB": "Memory sticks",
+            "OptionC": "Blue-ray devices",
+            "OptionD": "Flash memory",
+            "Answer": "",
+            "Explanation": "The flash memory functions similar to the EEPROM but is much cheaper."
+            },
+            {
+            "QuestionId": "1030",
+            "Question": "The flash memory modules designed to replace the functioning of a hard disk is ______",
+            "OptionA": "RIMM",
+            "OptionB": "FIMM",
+            "OptionC": "Flash drives",
+            "OptionD": "DIMM",
+            "Answer": "",
+            "Explanation": "The flash drives have been developed to provide faster operation but with lesser space."
+            },
+            {
+            "QuestionId": "1031",
+            "Question": "The drawback of building a large memory with DRAM is ______________",
+            "OptionA": "The Slow speed of operation",
+            "OptionB": "The large cost factor",
+            "OptionC": "The inefficient memory organisation",
+            "OptionD": "All of the mentioned",
+            "Answer": "",
+            "Explanation": "The DRAM�s were used for large memory modules for a long time until a substitute was found."
+            },
+            {
+            "QuestionId": "1032",
+            "Question": "In a 4M-bit chip organisation has a total of 19 external connections, then it has _______ address if 8 data lines are there.",
+            "OptionA": "2",
+            "OptionB": "5",
+            "OptionC": "9",
+            "OptionD": "8",
+            "Answer": "",
+            "Explanation": "To have 8 data lines and 19 external connections it has to have 9 address lines(i.e 512 x 8 organisation)."
+            },
+            {
+            "QuestionId": "1033",
+            "Question": "What does ISO stands for?",
+            "OptionA": "International Software Organisation",
+            "OptionB": "Industrial Software Organisation",
+            "OptionC": "International Standards Organisation",
+            "OptionD": "Industrial Standards Organisation",
+            "Answer": "c",
+            "Explanation": "The ISO is yet another architectural standard, used to design systems."
+            },
+            {
+            "QuestionId": "1034",
+            "Question": "The bit used to signify that the cache location is updated is ________",
+            "OptionA": "Flag bit",
+            "OptionB": "Reference bit",
+            "OptionC": "Update bit",
+            "OptionD": "Dirty bit",
+            "Answer": "d",
+            "Explanation": "When the cache location is updated in order to signal to the processor this bit is used."
+            },
+            {
+            "QuestionId": "1035",
+            "Question": "During a write operation if the required block is not present in the cache then ______ occurs.",
+            "OptionA": "Write miss",
+            "OptionB": "Write latency",
+            "OptionC": "Write hit",
+            "OptionD": "Write delay",
+            "Answer": "a",
+            "Explanation": "This indicates that the operation has missed and it brings the required block into the cache."
+            },
+            {
+            "QuestionId": "1036",
+            "Question": "While using the direct mapping technique, in a 16 bit system the higher order 5 bits are used for ________",
+            "OptionA": "Id",
+            "OptionB": "Word",
+            "OptionC": "Tag",
+            "OptionD": "Block",
+            "Answer": "c",
+            "Explanation": "The tag is used to identify the block mapped onto one particular cache block."
+            },
+            {
+            "QuestionId": "1037",
+            "Question": "The bit used to indicate whether the block was recently used or not is _______",
+            "OptionA": "Reference bit",
+            "OptionB": "Dirty bit",
+            "OptionC": "Control bit",
+            "OptionD": "Idol bit",
+            "Answer": "b",
+            "Explanation": "The dirty bit is used to show that the block was recently modified and for a replacement algorithm."
+            },
+            {
+            "QuestionId": "1038",
+            "Question": "The number successful accesses to memory stated as a fraction is called as _____",
+            "OptionA": "Access rate",
+            "OptionB": "Success rate",
+            "OptionC": "Hit rate",
+            "OptionD": "Miss rate",
+            "Answer": "c",
+            "Explanation": "The hit rate is an important factor in performance measurement."
+            }
+    ]
+}

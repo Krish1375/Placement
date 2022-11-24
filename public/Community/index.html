@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <!-- basic -->
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <!-- mobile metas -->
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+      <!-- site metas -->
+      <title>PlacementPrep</title>
+
+      <!-- bootstrap css -->
+      <!-- <link rel="stylesheet" href="./HomePage/css/bootstrap.min.css"> -->
+      <link rel="stylesheet" href="./css/bootstrap.min.css">
+      <!-- style css -->
+      <link rel="stylesheet" href="./css/style.css">
+      <!-- Responsive-->
+      <link rel="stylesheet" href="./css/responsive.css">
+      <!-- fevicon -->
+      <link rel="icon" href="./images/fevicon.png" type="image/gif" />
+      <!-- Scrollbar Custom CSS -->
+      <link rel="stylesheet" href="./css/jquery.mCustomScrollbar.min.css">
+      <!-- Tweaks for older IEs-->
+      <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
+
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+      <style>
+          .dropdown-submenu {
+              position: relative;
+          }
+  
+          .dropdown-submenu .dropdown-menu {
+              top: 0;
+              left: 100%;
+              margin-top: -1px;
+          }
+      </style>
+   </head>
+   <!-- body -->
+   <body class="main-layout" style="background-color: #11aeef;">
+      <div id="content">
+         <!-- header -->
+         <header>
+            <!-- header inner -->
+            <div class="header" style="padding-bottom: 16rem">
+               <div class="container-fluid">
+                  <div class="row">
+                     <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col logo_section">
+                        <div class="full">
+                           <div class="center-desk">
+                              <div class="logo" ">
+                                 <h1 style="color: white;">PlacementPrep</h1>
+                                 <!-- <a href="index.html"><img src="images/logo.png" alt="#" /></a> -->
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-xl-9 col-lg-9 col-md-9 col-sm-9">
+                        <ul class="btn">
+                           <li><a href="/practice">Practice</a></li>
+                           <li><a href="/quiz">Quiz</a></li>
+                           <li><a href="/learn">Learn</a></li>
+                           <li><a href="/community">Community</a></li>
+                           <!-- <li><button type="button" id="sidebarCollapse">
+                              <img src="./images/menu_icon.png" alt="#" />
+                              </button>
+                           </li> -->
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </header>
+         <!-- end header inner -->
+         <!-- end header -->
+         <!-- banner -->
+                        <!-- <div class="row">
+                           <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12">
+                              <div class="text-bg">
+                                 <h1>Select<br> Your <br>Topic</h1>
+                                 <p> Select the topic in which you wish to practice questions. We will provide you with the latest and most important questions in that topic. Let's Master it !</p>
+                              </div>
+                           </div>
+                        </div> -->
+
+                        <div class=" container-fluid" style="background: #11aeef; text-align: center; color: white; padding: 0 40px 100px 40px;">
+                            <div class="top-bar">
+                                <h1>
+                                    Community
+                                </h1>
+                            </div>
+                            <div class="main">
+                                <ol>
+                                </ol>
+                                <button class="btn btn-primary">Add Post</button>
+                            </div>
+                    </div>
+      </div>
+
+      <script src="data.js"></script>
+      <script>
+          console.log(threads);
+          var container = document.querySelector('ol');
+          for (let thread of threads) {
+              var html = `
+              <li class="row">
+                  <a href="./thread.html?${thread.id}">
+                      <h4 class="title">
+                          ${thread.title} 
+                      </h4>
+                      <div class="bottom">
+                          <p> By - ${thread.author}   ,</p>
+                          <p class="timestamp">
+                              ${new Date(thread.date).toLocaleString()}
+                          </p>
+                          <p class="comment-count">
+                              ${thread.comments.length} comments
+                          </p>
+                      </div>
+                  </a>
+              </li>`
+              container.insertAdjacentHTML('beforeend', html);
+          }
+      </script>
+      <style>
+          body {
+              margin: 10px 60px;
+          }
+          a {
+              text-decoration: none;
+              color: black;
+          }
+          .title{
+              padding: 10px 0px;
+              margin: 10px;
+              font-size: 20px;
+          }
+          h1, h4, ol {
+              margin: 0;
+          }
+          p {
+              margin: 5px 0;
+          }
+          .top-bar {
+              background-color: skyblue;
+              margin-top: 200px;
+              padding: 10px 40px;
+          }
+          .main {
+              background-color: #F6F6EF;
+              padding: 10px 30px;
+          }
+          .row {
+              padding: 5px 0;
+          }
+          .bottom {
+              margin: 10px;
+              display: flex;
+              color: grey;
+              font-size: 15px;
+          }
+          .timestamp {
+              padding-right: 10px;
+          }
+      </style>
+
+      <!-- Javascript files-->
+      <script src="./js/jquery.min.js"></script>
+      <script src="./js/popper.min.js"></script>
+      <script src="./js/bootstrap.bundle.min.js"></script>
+      <script src="./js/jquery-3.0.0.min.js"></script>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+      <!-- sidebar -->
+      <script src="./js/jquery.mCustomScrollbar.concat.min.js"></script>
+      <script src="./js/custom.js"></script>
+      
+      <script type="text/javascript">
+         $(document).ready(function() {
+             $("#sidebar").mCustomScrollbar({
+                 theme: "minimal"
+             });
+         
+             $('#dismiss, .overlay').on('click', function() {
+                 $('#sidebar').removeClass('active');
+                 $('.overlay').removeClass('active');
+             });
+         
+             $('#sidebarCollapse').on('click', function() {
+                 $('#sidebar').addClass('active');
+                 $('.overlay').addClass('active');
+                 $('.collapse.in').toggleClass('in');
+                 $('a[aria-expanded=true]').attr('aria-expanded', 'false');
+             });
+         });
+      </script>
+      <script>
+         $(document).ready(function() {
+             $(".fancybox").fancybox({
+                 openEffect: "none",
+                 closeEffect: "none"
+             });
+         
+             $(".zoom").hover(function() {
+         
+                 $(this).addClass('transition');
+             }, function() {
+         
+                 $(this).removeClass('transition');
+             });
+         });
+      </script>
+      <script>
+      $(document).ready(function () {
+            $('.dropdown-submenu a.test').on("click", function (e) {
+               $(this).next('ul').toggle();
+               e.stopPropagation();
+               e.preventDefault();
+            });
+      });
+   </script>
+   </body>
+</html>
+

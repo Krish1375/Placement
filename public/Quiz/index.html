@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <!-- basic -->
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <!-- mobile metas -->
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+      <!-- site metas -->
+      <title>PlacementPrep</title>
+
+      <!-- bootstrap css -->
+      <!-- <link rel="stylesheet" href="./HomePage/css/bootstrap.min.css"> -->
+      <link rel="stylesheet" href="./css/bootstrap.min.css">
+      <!-- style css -->
+      <link rel="stylesheet" href="./css/style.css">
+      <!-- Responsive-->
+      <link rel="stylesheet" href="./css/responsive.css">
+      <!-- fevicon -->
+      <link rel="icon" href="./images/fevicon.png" type="image/gif" />
+      <!-- Scrollbar Custom CSS -->
+      <link rel="stylesheet" href="./css/jquery.mCustomScrollbar.min.css">
+      <!-- Tweaks for older IEs-->
+      <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
+      <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
+   </head>
+   <!-- body -->
+   <body class="main-layout">
+      <!-- end loader -->
+      <div class="wrapper">
+      <!-- end loader -->
+      <!-- <div class="sidebar"> -->
+         <!-- Sidebar  -->
+         <!-- <nav id="sidebar">
+            <div id="dismiss">
+               <i class="fa fa-arrow-left"></i>
+            </div>
+            <ul class="list-unstyled components">
+               <li class="active"> <a href="#">Home</a> </li>
+               <li><a href="#about">About </a> </li>
+               <li><a href="#work">Work</a> </li>
+               <li><a href="#contact">Contact </a> </li>
+            </ul>
+         </nav>
+      </div> -->
+      <div id="content">
+         <!-- header -->
+         <header>
+            <!-- header inner -->
+            <div class="header">
+               <div class="container-fluid">
+                  <div class="row">
+                     <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col logo_section">
+                        <div class="full">
+                           <div class="center-desk">
+                              <div class="logo" ">
+                                 <h1 style="color: white;">PlacementPrep</h1>
+                                 <!-- <a href="index.html"><img src="images/logo.png" alt="#" /></a> -->
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-xl-9 col-lg-9 col-md-9 col-sm-9">
+                        <ul class="btn">
+                           <li><a href="/practice">Practice</a></li>
+                           <li><a href="/quiz">Quiz</a></li>
+                           <li><a href="/learn">Learn</a></li>
+                           <li><a href="/community">Community</a></li>
+                           <!-- <li><button type="button" id="sidebarCollapse">
+                              <img src="./images/menu_icon.png" alt="#" />
+                              </button>
+                           </li> -->
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </header>
+         <!-- end header inner -->
+         <!-- end header -->
+         <!-- banner -->
+         <div id="myCarousel" class="carousel slide banner_main" data-ride="carousel">
+            <div class="carousel-inner">
+               <div class="carousel-item active">
+                  <div class="container-fluid">
+                     <div class="carousel-caption">
+                        <div class="row">
+                           <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12">
+                              <div class="text-bg">
+                                 <h1>Select<br> Your <br>Topic</h1>
+                                 <p> Select the topic in which you wish to practice questions. We will provide you with the latest and most important questions in that topic. Let's Master it !</p>
+                                 <!-- <a class="read_more" href="#">Read more</a> -->
+                              </div>
+                           </div>
+                           <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
+                              <div class="row">
+                                 <div class="card" style="width: 18rem;">
+                                    <div class="card-body">
+                                      <h5 class="card-title">Data Science</h5>
+                                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                      <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
+                                      <a href="quiz.html"><button id= "DS" onclick = "getPractice(this.id)" class="btn btn-primary">Take Quiz</button></a>
+                                      
+                                    </div>
+                                  </div>
+                                  <div class="card" style="width: 18rem;">
+                                    <div class="card-body">
+                                      <h5 class="card-title">DataBase Management System</h5>
+                                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                      <a href="quiz.html"><button id= "DBMS" onclick = "getPractice(this.id)" class="btn btn-primary">Take Quiz</button></a>                                    </div>
+                                  </div>
+                              </div>
+
+                              <div class="row">
+                                 <div class="card" style="width: 18rem;">
+                                    <div class="card-body">
+                                      <h5 class="card-title">Computer Graphics</h5>
+                                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                      <a href="quiz.html"><button id= "CG" onclick = "getPractice(this.id)" class="btn btn-primary">Take Quiz</button></a>                                    </div>
+                                  </div>
+                                  <div class="card" style="width: 18rem;">
+                                    <div class="card-body">
+                                      <h5 class="card-title">Computer Architecture and Organization</h5>
+                                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                      <a href="quiz.html"><button id= "CAO" onclick = "getPractice(this.id)" class="btn btn-primary">Take Quiz</button></a>                                    </div>
+                                  </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+
+         <!-- Questions -->
+            <div class="container-fluid" id="putQuestionsHere">
+            </div>
+
+         <!-- end request -->
+         <!--  footer -->
+         <footer>
+            <div class="footer">
+               <div class="container">
+                  <div class="row">
+                     <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
+                        <div class="row">
+                           <div class="col-md-8 col-sm-6">
+                              <div class="address">
+                                 <h3>Address </h3>
+                              </div>
+                              <ul class="location_icon">
+                                 <li>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, </li>
+                              </ul>
+                           </div>
+                           <div class="col-md-4 col-sm-6">
+                              <div class="address">
+                                 <h3>Links</h3>
+                                 <ul class="Menu_footer">
+                                    <li class="active"> <a href="#">Home</a> </li>
+                                    <li><a href="#about">About </a> </li>
+                                    <li><a href="#work">Work</a> </li>
+                                    <li><a href="#contact">Contact </a> </li>
+                                 </ul>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
+                        <div class="row">
+                           <div class="col-md-5 col-sm-6">
+                              <div class="address">
+                                 <h3>Follow Us</h3>
+                              </div>
+                              <ul class="social_icon">
+                                 <li><a href="#">Facebook <i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                 <li><a href="#"> Twitter<i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                 <li><a href="#"> Linkedin<i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+                                 <li><a href="#"> Youtube<i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+                                 <li><a href="#"> Instagram<i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                              </ul>
+                           </div>
+                           <div class="col-md-7 col-sm-6">
+                              <div class="address">
+                                 <h3>Newsletter </h3>
+                              </div>
+                              <form class="bottom_form">
+                                 <input class="enter" placeholder="Enter Your Email" type="text" name="Enter Your Email">
+                                 <button class="sub_btn">subscribe</button>
+                              </form>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="copyright">
+                  <div class="container">
+                     <div class="row">
+                        <div class="col-md-12">
+                           <p>Copyright 2019 All Right Reserved By <a href="https://html.design/"> Free  html Templates</a></p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </footer>
+         <!-- end footer -->
+      </div>
+      <div class="overlay"></div>
+      <!-- Javascript files-->
+      <script src="./js/jquery.min.js"></script>
+      <script src="./js/popper.min.js"></script>
+      <script src="./js/bootstrap.bundle.min.js"></script>
+      <script src="./js/jquery-3.0.0.min.js"></script>
+      <!-- sidebar -->
+      <script src="./js/jquery.mCustomScrollbar.concat.min.js"></script>
+      <script src="./js/custom.js"></script>
+      
+      <script type="text/javascript">
+         $(document).ready(function() {
+             $("#sidebar").mCustomScrollbar({
+                 theme: "minimal"
+             });
+         
+             $('#dismiss, .overlay').on('click', function() {
+                 $('#sidebar').removeClass('active');
+                 $('.overlay').removeClass('active');
+             });
+         
+             $('#sidebarCollapse').on('click', function() {
+                 $('#sidebar').addClass('active');
+                 $('.overlay').addClass('active');
+                 $('.collapse.in').toggleClass('in');
+                 $('a[aria-expanded=true]').attr('aria-expanded', 'false');
+             });
+         });
+      </script>
+      <script>
+         $(document).ready(function() {
+             $(".fancybox").fancybox({
+                 openEffect: "none",
+                 closeEffect: "none"
+             });
+         
+             $(".zoom").hover(function() {
+         
+                 $(this).addClass('transition');
+             }, function() {
+         
+                 $(this).removeClass('transition');
+             });
+         });
+      </script>
+      <script src="practice.js"></script>
+      <!-- <script>
+         function topicSelected(id){
+            let pc_obj = new Practice();
+            pc_obj.getPractice(this.id);
+
+            console.log("Button Pressed: "+id);
+            $("#putQuestionsHere").empty();
+
+            $.getJSON("../data_science.json", function (data) {
+             var question = "";
+             var topic;
+             
+             if(id === "DS")
+             {
+               data = data.dataScience;
+               topic = "Data Science";
+             } else if(id === "DBMS")
+             {
+               data = data.DBMS;
+               topic = "Database Management System";
+             } 
+             else if(id === "CG")
+             {
+               data = data.computerGraphics;
+               topic = "Computer Graphics";
+             } 
+             else if(id === "CAO")
+             {
+               data = data.CAO;
+               topic = "Computer Architecture and Organization";
+             }
+             else
+             {
+               data = data.dataScience;
+               topic = "ELSE Executed";
+             }
+             
+             $("#putQuestionsHere").append('<h1 style="padding: 0;">'+topic+'</h1>');
+             question += "<hr>";
+             // ITERATING THROUGH OBJECTS
+             var index = 1;
+             $.each(data, function (key, value) {
+               //CONSTRUCTION OF ROWS HAVING
+               // DATA FROM JSON OBJECT
+               // console.log(key);
+               //   console.log("#answer" + key);
+               question += "<p><b>"+index+". " + value.Question + "</b></p>";
+               question += "<p>1) " + value.OptionA + "</p>";
+               question += "<p>2) " + value.OptionB + "</p>";
+               question += "<p>3) " + value.OptionC + "</p>";
+               question += "<p>4) " + value.OptionD + "</p>";
+               var id = topic + key;
+               question +=
+                 '<button id="' +
+                 id +
+                 '" onclick="showOrHideDiv(' +
+                 key +
+                 ')">View Answer</button>';
+ 
+               // student += '<input type="submit" name="signin" id="signin" class="form-submit" value="View Answer"/>';
+               question += '<div class="'+ key + '" style="display:none"> <b>Solution: ' + value.Answer + '</b></div>';
+               question += '<div class="'+ key + '"style="display:none"> Explanation: ' + value.Explanation +'</div>';
+               question += "<hr>";
+               index = index + 1;
+             });
+ 
+             $("#putQuestionsHere").append(question);
+           });
+         } -->
+ 
+         // function showOrHideDiv(key) {
+         //    let prac_obj = new Practice();
+         //    prac_obj.viewAnswer(key);
+         // //   console.log("Button Pressed: " + key);
+         // //   var ans = document.getElementsByClassName(key);
+         // //   console.log(ans);
+         // //   //   var exp = document.getElementById(id + "exp");
+         // //   //   console.log(exp);
+         // //   for (let index = 0; index < ans.length; index++) {
+         // //     if (ans[index].style.display === "none") {
+         // //     ans[index].style.display = "block";
+         // //     } else {
+         // //     ans[index].style.display = "none";
+         // //     }
+         // //   }
+         // }
+       </script>
+   </body>
+</html>
+
