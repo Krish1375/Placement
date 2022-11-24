@@ -16,7 +16,7 @@ app.use(bodyParser.urlencoded({
 
 
 
-const url = `mongodb://0.0.0.0:27017/UserDB`
+const url = `mongodb+srv://w35573:6Bwvg22DNsq44ctb@cluster0.qpcavx4.mongodb.net/?retryWrites=true&w=majority`
 
 mongoose.connect(url,
     err => {
