@@ -1,33 +1,48 @@
-function getPractice(id) {
-  console.log("Button Pressed: " + id);
-  $("#putQuestionsHere").empty();
+// import $ from jquery;
+
+function getDomain(id){
+
+  if (id === "DS") {
+    domain = "Data Science";
+  } else if (id === "DBMS") {
+    domain = "Database Management System";
+  }
+  else if (id === "CG") {
+    domain = "Computer Graphics";
+  }
+  else if (id === "CAO") {
+    domain = "Computer Architecture and Organization";
+  }
+  else {
+    domain = "ELSE Executed";
+  }
+  return domain;
+}
+
+function displayTopic(topic){
+  $("#putQuestionsHere").append('<h1 style="padding: 0;">' + topic + '</h1><hr');
+}
+
+var question="";
+function getPractice(topic) {
 
   $.getJSON("../data_science.json", function (data) {
-    var question = "";
-    var topic;
-
-    if (id === "DS") {
+    // var question = "";
+    if (topic === "Data Science") {
       data = data.dataScience;
-      topic = "Data Science";
-    } else if (id === "DBMS") {
+    } else if (topic === "Database Management System") {
       data = data.DBMS;
-      topic = "Database Management System";
     }
-    else if (id === "CG") {
+    else if (topic === "Computer Graphics") {
       data = data.computerGraphics;
-      topic = "Computer Graphics";
     }
-    else if (id === "CAO") {
+    else if (topic === "Computer Architecture and Organization") {
       data = data.CAO;
-      topic = "Computer Architecture and Organization";
     }
     else {
       data = data.dataScience;
-      topic = "ELSE Executed";
     }
 
-    $("#putQuestionsHere").append('<h1 style="padding: 0;">' + topic + '</h1>');
-    question += "<hr>";
     // ITERATING THROUGH OBJECTS
     var index = 1;
     $.each(data, function (key, value) {
@@ -44,18 +59,22 @@ function getPractice(id) {
         key +
         ')">View Answer</button>';
 
-      // student += '<input type="submit" name="signin" id="signin" class="form-submit" value="View Answer"/>';
       question += '<div class="' + key + '" style="display:none"> <b>Solution: ' + value.Answer + '</b></div>';
       question += '<div class="' + key + '"style="display:none"> Explanation: ' + value.Explanation + '</div>';
       question += "<hr>";
       index = index + 1;
     });
 
-    $("#putQuestionsHere").append(question);
+    // $("#putQuestionsHere").append(question);
   });
+  return question;
 }
 
-function viewAnswer(key) {
+function displayQuestions(questions){
+  $("#putQuestionsHere").append(questions);
+}
+
+ function viewAnswer(key) {
   console.log("Button Pressed: " + key);
   var ans = document.getElementsByClassName(key);
   // console.log(ans);
@@ -67,3 +86,9 @@ function viewAnswer(key) {
     }
   }
 }
+
+module.exports = {
+  getDomain,
+  question,
+  getPractice
+};

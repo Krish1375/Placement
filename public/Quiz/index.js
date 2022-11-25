@@ -630,27 +630,26 @@ const questions = [
         Explanation: "Data dredging, also called as data snooping, refers to the practice of misusing data mining techniques to show misleading scientific �research�."
     }
 ]
+const quiz_len = 10;
 
-
-let shuffledQuestions = [] //empty array to hold shuffled selected questions out of all available questions
+var shuffledQuestions = [] //empty array to hold shuffled selected questions out of all available questions
 
 function handleQuestions() { 
-    //function to shuffle and push 10 questions to shuffledQuestions array
-//app would be dealing with 10questions per session
-    while (shuffledQuestions.length <= 9) {
+    while (shuffledQuestions.length < quiz_len) {
         const random = questions[Math.floor(Math.random() * questions.length)]
         if (!shuffledQuestions.includes(random)) {
             shuffledQuestions.push(random)
         }
     }
-    console.log(shuffledQuestions)
+    // console.log(shuffledQuestions)
+    return shuffledQuestions;
 }
 
 
 let questionNumber = 1 //holds the current question number
 let playerScore = 0  //holds the player score
 let wrongAttempt = 0 //amount of wrong answers picked by player
-let indexNumber = 0 //will be used in displaying next question
+var indexNumber = 0 //will be used in displaying next question
 
 // function for displaying next question in the array to dom
 //also handles displaying players and quiz information to dom
@@ -664,7 +663,13 @@ function NextQuestion(index) {
     document.getElementById("option-two-label").innerHTML = currentQuestion.optionB;
     document.getElementById("option-three-label").innerHTML = currentQuestion.optionC;
     document.getElementById("option-four-label").innerHTML = currentQuestion.optionD;
+}
 
+function incrementCounter(){
+    console.log("Before: "+indexNumber)
+    indexNumber++;
+    console.log("After: "+indexNumber)
+    return indexNumber
 }
 
 
@@ -691,7 +696,7 @@ function checkForAnswer() {
         if (option.checked === true && option.value === currentQuestionAnswer) {
             document.getElementById(correctOption).style.backgroundColor = "green"
             playerScore++ //adding to player's score
-            indexNumber++ //adding 1 to index so has to display next question..
+            indexNumber =  incrementCounter(indexNumber) //adding 1 to index so has to display next question..
             //set to delay question number till when next question loads
             setTimeout(() => {
                 questionNumber++
@@ -703,7 +708,7 @@ function checkForAnswer() {
             document.getElementById(wrongLabelId).style.backgroundColor = "red"
             document.getElementById(correctOption).style.backgroundColor = "green"
             wrongAttempt++ //adds 1 to wrong attempts 
-            indexNumber++
+            indexNumber =  incrementCounter(indexNumber)
             //set to delay question number till when next question loads
             setTimeout(() => {
                 questionNumber++
@@ -725,7 +730,8 @@ function handleNextQuestion() {
             NextQuestion(indexNumber)
         }
         else {
-            handleEndGame()//ends game if index number greater than 9 meaning we're already at the 10th question
+           playerGrade =  generateReport(playerScore); //ends game if index number greater than 9 meaning we're already at the 10th question
+            displayReport();
         }
         resetOptionBackground()
     }, 1000);
@@ -747,26 +753,49 @@ function unCheckRadioButtons() {
     }
 }
 
-// function for when all questions being answered
-function handleEndGame() {
-    let remark = null
-    let remarkColor = null
+var remark="";
+var remarkColor="";
 
-    // condition check for player remark and remark color
-    if (playerScore <= 3) {
+// function for when all questions being answered
+function generateReport(score) {
+    remark = getRemark(score)
+    remarkColor = getRemarkColor(score)
+    return playerGrade = (score / 10) * 100
+}
+
+function getRemark(score){
+    if (score <= 3) {
         remark = "Bad Grades, Keep Practicing."
+    }
+    else if (score >= 4 && score < 7) {
+        remark = "Average Grades, You can do better."
+    }
+    else if (score >= 7) {
+        remark = "Excellent, Keep the good work going."
+    }
+    else{
+        remark = "Testing Functionality"
+    }
+    return remark
+}
+
+function getRemarkColor(score){
+    if (score <= 3) {
         remarkColor = "red"
     }
-    else if (playerScore >= 4 && playerScore < 7) {
-        remark = "Average Grades, You can do better."
+    else if (score >= 4 && score < 7) {
         remarkColor = "orange"
     }
-    else if (playerScore >= 7) {
-        remark = "Excellent, Keep the good work going."
+    else if (score >= 7) {
         remarkColor = "green"
     }
-    const playerGrade = (playerScore / 10) * 100
+    else{
+        remarkColor = "white"
+    }
+    return remarkColor
+}
 
+function displayReport(){
     //data to display to score board
     document.getElementById('remarks').innerHTML = remark
     document.getElementById('remarks').style.color = remarkColor
@@ -774,7 +803,6 @@ function handleEndGame() {
     document.getElementById('wrong-answers').innerHTML = wrongAttempt
     document.getElementById('right-answers').innerHTML = playerScore
     document.getElementById('score-modal').style.display = "flex"
-
 }
 
 //closes score modal, resets game and reshuffles questions
@@ -791,4 +819,17 @@ function closeScoreModal() {
 //function to close warning modal
 function closeOptionModal() {
     document.getElementById('option-modal').style.display = "none"
+}
+
+module.exports = {
+    shuffledQuestions,
+    quiz_len,
+    handleQuestions,
+    generateReport,
+    remark,
+    remarkColor,
+    incrementCounter,
+    indexNumber,
+    getRemarkColor,
+    getRemark
 }
