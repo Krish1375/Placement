@@ -15,8 +15,6 @@ jobs:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_app_name: "placementse"
           heroku_email: "krish.shah@spit.ac.in"
-  test:
-    stage: test
-    script:
-      - npm install
-      - npm test
+      - run: npm ci
+      - run: npm run build --if-present
+      - run: npm test
