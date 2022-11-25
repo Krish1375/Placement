@@ -58,8 +58,8 @@ describe("Testing Functions in Quiz Route: ", function(){
         done();
     })
 
-    // it("1h. getRemarkColor() - RemarkColor Fail", function(done){
-    //     expect(quiz.getRemarkColor(3)).to.equal("green");
-    //     done();
-    // })
+    it("1h. getRemarkColor() - RemarkColor Fail", function(done){
+        expect(quiz.getRemarkColor(3)).to.equal("green");
+        done();
+    })
 });
