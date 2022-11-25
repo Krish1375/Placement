@@ -16,8 +16,8 @@ app.use(bodyParser.urlencoded({
 
 
 
-// const url = `mongodb+srv://w35573:6Bwvg22DNsq44ctb@cluster0.qpcavx4.mongodb.net/?retryWrites=true&w=majority`
-const url = 'mongodb+srv://krish:Krish_1010@userdb.gq51v1x.mongodb.net/?retryWrites=true&w=majority'
+const url = `mongodb+srv://w35573:6Bwvg22DNsq44ctb@cluster0.qpcavx4.mongodb.net/?retryWrites=true&w=majority`
+// const url = 'mongodb+srv://krish:Krish_1010@userdb.gq51v1x.mongodb.net/?retryWrites=true&w=majority'
 mongoose.connect(url,
     err => {
         if(err) throw err;
