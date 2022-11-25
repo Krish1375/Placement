@@ -103,7 +103,7 @@
                                       <h5 class="card-title">Data Science</h5>
                                       <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                                       <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
-                                      <button id= "DS" onclick = "getPractice(this.id)" class="btn btn-primary">Questions</a>
+                                      <button id= "DS" onclick = "onTopicSelect(this.id)" class="btn btn-primary">Questions</a>
                                       
                                     </div>
                                   </div>
@@ -111,7 +111,7 @@
                                     <div class="card-body">
                                       <h5 class="card-title">DataBase Management System</h5>
                                       <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                      <button id= "DBMS" onclick = "getPractice(this.id)" class="btn btn-primary">Questions</a>
+                                      <button id= "DBMS" onclick = "onTopicSelect(this.id)" class="btn btn-primary">Questions</a>
                                     </div>
                                   </div>
                               </div>
@@ -121,14 +121,14 @@
                                     <div class="card-body">
                                       <h5 class="card-title">Computer Graphics</h5>
                                       <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                      <button id= "CG" onclick = "getPractice(this.id)" class="btn btn-primary">Questions</a>
+                                      <button id= "CG" onclick = "onTopicSelect(this.id)" class="btn btn-primary">Questions</a>
                                     </div>
                                   </div>
                                   <div class="card" style="width: 18rem;">
                                     <div class="card-body">
                                       <h5 class="card-title">Computer Architecture and Organization</h5>
                                       <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                      <button id= "CAO" onclick = "getPractice(this.id)" class="btn btn-primary">Questions</a>
+                                      <button id= "CAO" onclick = "onTopicSelect(this.id)" class="btn btn-primary">Questions</a>
                                     </div>
                                   </div>
                               </div>
@@ -215,13 +215,13 @@
       </div>
       <div class="overlay"></div>
       <!-- Javascript files-->
-      <script src="./js/jquery.min.js"></script>
-      <script src="./js/popper.min.js"></script>
-      <script src="./js/bootstrap.bundle.min.js"></script>
-      <script src="./js/jquery-3.0.0.min.js"></script>
+      <script src="Practice/js/jquery.min.js"></script>
+      <script src="Practice/js/popper.min.js"></script>
+      <script src="Practice/js/bootstrap.bundle.min.js"></script>
+      <script src="Practice/js/jquery-3.0.0.min.js"></script>
       <!-- sidebar -->
-      <script src="./js/jquery.mCustomScrollbar.concat.min.js"></script>
-      <script src="./js/custom.js"></script>
+      <script src="Practice/js/jquery.mCustomScrollbar.concat.min.js"></script>
+      <script src="Practice/js/custom.js"></script>
       
       <script type="text/javascript">
          $(document).ready(function() {
@@ -259,93 +259,17 @@
          });
       </script>
       <script src="practice.js"></script>
-      <!-- <script>
-         function topicSelected(id){
-            let pc_obj = new Practice();
-            pc_obj.getPractice(this.id);
-
-            console.log("Button Pressed: "+id);
+      <script >
+         function onTopicSelect(id){   
+            console.log("Button Pressed: " + id);
             $("#putQuestionsHere").empty();
-
-            $.getJSON("../data_science.json", function (data) {
-             var question = "";
-             var topic;
-             
-             if(id === "DS")
-             {
-               data = data.dataScience;
-               topic = "Data Science";
-             } else if(id === "DBMS")
-             {
-               data = data.DBMS;
-               topic = "Database Management System";
-             } 
-             else if(id === "CG")
-             {
-               data = data.computerGraphics;
-               topic = "Computer Graphics";
-             } 
-             else if(id === "CAO")
-             {
-               data = data.CAO;
-               topic = "Computer Architecture and Organization";
-             }
-             else
-             {
-               data = data.dataScience;
-               topic = "ELSE Executed";
-             }
-             
-             $("#putQuestionsHere").append('<h1 style="padding: 0;">'+topic+'</h1>');
-             question += "<hr>";
-             // ITERATING THROUGH OBJECTS
-             var index = 1;
-             $.each(data, function (key, value) {
-               //CONSTRUCTION OF ROWS HAVING
-               // DATA FROM JSON OBJECT
-               // console.log(key);
-               //   console.log("#answer" + key);
-               question += "<p><b>"+index+". " + value.Question + "</b></p>";
-               question += "<p>1) " + value.OptionA + "</p>";
-               question += "<p>2) " + value.OptionB + "</p>";
-               question += "<p>3) " + value.OptionC + "</p>";
-               question += "<p>4) " + value.OptionD + "</p>";
-               var id = topic + key;
-               question +=
-                 '<button id="' +
-                 id +
-                 '" onclick="showOrHideDiv(' +
-                 key +
-                 ')">View Answer</button>';
- 
-               // student += '<input type="submit" name="signin" id="signin" class="form-submit" value="View Answer"/>';
-               question += '<div class="'+ key + '" style="display:none"> <b>Solution: ' + value.Answer + '</b></div>';
-               question += '<div class="'+ key + '"style="display:none"> Explanation: ' + value.Explanation +'</div>';
-               question += "<hr>";
-               index = index + 1;
-             });
- 
-             $("#putQuestionsHere").append(question);
-           });
-         } -->
- 
-         // function showOrHideDiv(key) {
-         //    let prac_obj = new Practice();
-         //    prac_obj.viewAnswer(key);
-         // //   console.log("Button Pressed: " + key);
-         // //   var ans = document.getElementsByClassName(key);
-         // //   console.log(ans);
-         // //   //   var exp = document.getElementById(id + "exp");
-         // //   //   console.log(exp);
-         // //   for (let index = 0; index < ans.length; index++) {
-         // //     if (ans[index].style.display === "none") {
-         // //     ans[index].style.display = "block";
-         // //     } else {
-         // //     ans[index].style.display = "none";
-         // //     }
-         // //   }
-         // }
-       </script>
+            topic = getDomain(id);
+            displayTopic(topic);
+            var questions = getPractice(topic);
+            displayQuestions(question)
+         }
+      </script>
+      
    </body>
 </html>
 
